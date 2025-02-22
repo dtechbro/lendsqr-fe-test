@@ -1,7 +1,7 @@
 import React from "react";
 import StatsCard from "./StatsCard";
 import { User } from "../types";
-import "../styles/StatsGrid.scss";
+import "../styles/statsgrid.scss";
 import {
   AllActiveUsersIcon,
   AllUsersIcon,

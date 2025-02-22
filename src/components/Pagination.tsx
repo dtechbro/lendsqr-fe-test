@@ -1,6 +1,6 @@
 import React from "react";
 import { Table } from "@tanstack/react-table";
-import "../styles/Pagination.scss";
+import "../styles/pagination.scss";
 import { User } from "../types";
 import { IoChevronBackOutline, IoChevronForwardOutline } from "react-icons/io5";
 

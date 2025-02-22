@@ -9,7 +9,7 @@ import {
   flexRender,
 } from "@tanstack/react-table";
 import { User } from "../types";
-import "../styles/UsersTable.scss";
+import "../styles/userstable.scss";
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import FilterModal from "./UsersFilterModal";

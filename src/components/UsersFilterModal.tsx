@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/UsersFilterModal.scss';
+import '../styles/usersfiltermodal.scss';
 
 interface FilterModalProps {
   isOpen: boolean;
