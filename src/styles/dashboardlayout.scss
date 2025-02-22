@@ -1,0 +1,47 @@
+.dashboard-layout {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background: #fbfbfb;
+  
+  .main-area {
+    display: flex;
+    height: 100vh;
+
+    .sidebar {
+      grid-row: span 1;
+    }
+    
+    .main-content {
+      margin-left: 250px;
+      margin-top: 75px;
+      padding: 50px;
+      width: 100%;
+      height: calc(100vh - 75px);
+      overflow-y: auto;
+      scrollbar-width: thin;
+    }
+  }
+      
+
+  // Styles for mobile screens 
+  @media (max-width: 768px) {
+    .main-area {
+      display: block;
+      height: 100vh;
+      
+
+      .sidebar {
+        display: none;
+      }
+
+      .main-content {
+        padding: 10px;
+        width: 100%;
+        margin-left: 0;
+      }
+    }
+  }
+}
+
+

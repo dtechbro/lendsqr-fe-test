@@ -1,0 +1,6377 @@
+[
+  {
+    "userId": "642fa3ff-b158-4576-a986-3b5b71414670",
+    "username": "Matilda_Deckow",
+    "email": "Camryn.Cruickshank79@yahoo.com",
+    "phone": "(269) 484-6199 x6634",
+    "organization": "Kredi",
+    "status": "Pending",
+    "dateJoined": "Dec 20, 2024, 03:32 AM",
+    "accountBalance": "₦241176.56",
+    "savingsBalance": "₦713733.61",
+    "loanBalance": "₦364686.23",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "9391424414",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Belle Collins",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 1,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Employed",
+      "sector": "Education",
+      "experience": "3 years",
+      "monthlyIncome": "₦948247.41",
+      "loanRepayment": "₦17040"
+    },
+    "socials": {
+      "twitter": "@Devante_Anderson",
+      "facebook": "Elbert.Lakin",
+      "instagram": "@Reba.Skiles"
+    },
+    "guarantors": [
+      {
+        "fullName": "Hattie Boehm",
+        "phone": "(412) 994-1999 x419",
+        "email": "Araceli82@gmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Amelie Balistreri",
+        "phone": "1-488-992-4463 x983",
+        "email": "Josue72@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "696d1b83-58d4-4dd6-ade9-7b83ebe854e8",
+    "username": "Rebecca.Conn10",
+    "email": "Stuart.Okuneva@yahoo.com",
+    "phone": "629-766-0388 x95380",
+    "organization": "Irorun",
+    "status": "Pending",
+    "dateJoined": "Mar 7, 2024, 11:57 AM",
+    "accountBalance": "₦287918.89",
+    "savingsBalance": "₦675920.76",
+    "loanBalance": "₦172508.14",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "9832945113",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Zoie O'Connell",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 3,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Self-Employed",
+      "sector": "Education",
+      "experience": "11 years",
+      "monthlyIncome": "₦247838.31",
+      "loanRepayment": "₦12713"
+    },
+    "socials": {
+      "twitter": "@Lia_Padberg-Cronin92",
+      "facebook": "Marc55",
+      "instagram": "@Chelsea_Huels94"
+    },
+    "guarantors": [
+      {
+        "fullName": "Mathew Rath",
+        "phone": "1-802-856-5055 x62789",
+        "email": "Nils6@yahoo.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Griffin Macejkovic",
+        "phone": "1-577-628-5531 x05721",
+        "email": "Nat63@hotmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "b8eb2027-fd2a-4d5e-a1db-08fbc2a58baf",
+    "username": "Rosie_Shanahan",
+    "email": "Rudy_Balistreri@yahoo.com",
+    "phone": "(754) 994-6696 x0513",
+    "organization": "Lendsqr",
+    "status": "Pending",
+    "dateJoined": "May 31, 2024, 10:13 PM",
+    "accountBalance": "₦284303.35",
+    "savingsBalance": "₦260478.99",
+    "loanBalance": "₦362062.76",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "3119661620",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Vincenza Cronin",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 0,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "10 years",
+      "monthlyIncome": "₦817024.04",
+      "loanRepayment": "₦89715"
+    },
+    "socials": {
+      "twitter": "@Maggie.Streich58",
+      "facebook": "Rosie.Halvorson",
+      "instagram": "@Martine31"
+    },
+    "guarantors": [
+      {
+        "fullName": "Valentine Hane",
+        "phone": "1-710-335-9200",
+        "email": "Marley_Tillman68@yahoo.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Patrick Will",
+        "phone": "321.706.5600 x620",
+        "email": "Melba.Koelpin17@hotmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "8f90fde4-89e0-4e7d-9598-bc4fca64f737",
+    "username": "Otho_Berge26",
+    "email": "Josiah.Stehr@gmail.com",
+    "phone": "(906) 494-8819 x823",
+    "organization": "Kredi",
+    "status": "Blacklisted",
+    "dateJoined": "Sep 15, 2024, 12:46 AM",
+    "accountBalance": "₦472418.24",
+    "savingsBalance": "₦874851.22",
+    "loanBalance": "₦16093.02",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "1079170542",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Brigitte Zulauf",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 5,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Technology",
+      "experience": "7 years",
+      "monthlyIncome": "₦521344.41",
+      "loanRepayment": "₦24654"
+    },
+    "socials": {
+      "twitter": "@Alayna_Labadie39",
+      "facebook": "Felicita_Dibbert79",
+      "instagram": "@Zoie_Doyle"
+    },
+    "guarantors": [
+      {
+        "fullName": "Darion Hamill",
+        "phone": "(770) 503-6624 x74502",
+        "email": "Aryanna81@yahoo.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Julien Waelchi",
+        "phone": "544-781-6536 x052",
+        "email": "Darron_Pfannerstill59@hotmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "3d2fdf49-7e99-435f-b3ff-515add0b38e5",
+    "username": "Caitlyn50",
+    "email": "Gage.Kiehn@yahoo.com",
+    "phone": "1-323-778-9252 x4700",
+    "organization": "Lendsqr",
+    "status": "Blacklisted",
+    "dateJoined": "Aug 9, 2024, 03:40 AM",
+    "accountBalance": "₦273608.60",
+    "savingsBalance": "₦609843.17",
+    "loanBalance": "₦64168.28",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "8000408015",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Herbert Nolan",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 5,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Employed",
+      "sector": "FinTech",
+      "experience": "2 years",
+      "monthlyIncome": "₦850938.32",
+      "loanRepayment": "₦79052"
+    },
+    "socials": {
+      "twitter": "@Ken.Mitchell25",
+      "facebook": "Elbert_Boyle-Daniel17",
+      "instagram": "@Rosalinda.Altenwerth"
+    },
+    "guarantors": [
+      {
+        "fullName": "Tony Braun",
+        "phone": "(857) 436-0762 x190",
+        "email": "Edyth_Bruen@hotmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Jacklyn Cartwright",
+        "phone": "934.700.2782 x9901",
+        "email": "Domenico61@hotmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "d3426aed-752d-4faf-822b-e93caf6e61d6",
+    "username": "Bernadine.Kessler92",
+    "email": "Lucie43@gmail.com",
+    "phone": "(374) 347-0152 x28015",
+    "organization": "Lendstar",
+    "status": "Active",
+    "dateJoined": "Jan 24, 2025, 12:53 AM",
+    "accountBalance": "₦228163.04",
+    "savingsBalance": "₦114734.13",
+    "loanBalance": "₦337612.34",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "5031660205",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Elissa Littel",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 2,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Self-Employed",
+      "sector": "Health",
+      "experience": "19 years",
+      "monthlyIncome": "₦550965.55",
+      "loanRepayment": "₦84113"
+    },
+    "socials": {
+      "twitter": "@Hassie.Johns",
+      "facebook": "Lolita.Hickle",
+      "instagram": "@Reyes_Fritsch"
+    },
+    "guarantors": [
+      {
+        "fullName": "Noelia Borer",
+        "phone": "1-764-518-5979",
+        "email": "Shaina.Rau51@hotmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Jamil Legros",
+        "phone": "607.368.4250 x5972",
+        "email": "Stephan_Kuhlman45@hotmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "99dbba74-51e1-4a84-b034-15d13832dadf",
+    "username": "Leonel.Grant-Bergnaum",
+    "email": "Helena1@gmail.com",
+    "phone": "247-919-1860 x267",
+    "organization": "Kredi",
+    "status": "Pending",
+    "dateJoined": "Oct 28, 2024, 09:16 PM",
+    "accountBalance": "₦487511.88",
+    "savingsBalance": "₦735332.47",
+    "loanBalance": "₦294233.80",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "8369639228",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Ciara McDermott-Howell",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 5,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Employed",
+      "sector": "FinTech",
+      "experience": "1 years",
+      "monthlyIncome": "₦334817.75",
+      "loanRepayment": "₦78027"
+    },
+    "socials": {
+      "twitter": "@Nathan_Bartoletti",
+      "facebook": "Andy.Ritchie63",
+      "instagram": "@Jaydon99"
+    },
+    "guarantors": [
+      {
+        "fullName": "Saige Murray",
+        "phone": "1-384-683-3665 x298",
+        "email": "Al.Harvey@hotmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Declan Jerde",
+        "phone": "1-622-701-5176 x83148",
+        "email": "Molly54@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "60ae4b4d-694d-42b9-bc65-df832714551b",
+    "username": "Elenor_Welch38",
+    "email": "Samson.Morar21@yahoo.com",
+    "phone": "860.529.2697 x82310",
+    "organization": "Lendsqr",
+    "status": "Pending",
+    "dateJoined": "May 22, 2024, 12:22 PM",
+    "accountBalance": "₦207860.52",
+    "savingsBalance": "₦836813.24",
+    "loanBalance": "₦96816.60",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "5165148161",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Litzy Casper",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 3,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Self-Employed",
+      "sector": "Technology",
+      "experience": "19 years",
+      "monthlyIncome": "₦575751.08",
+      "loanRepayment": "₦64247"
+    },
+    "socials": {
+      "twitter": "@Triston_Schultz21",
+      "facebook": "Dell_Kshlerin79",
+      "instagram": "@Kenna.Dickinson92"
+    },
+    "guarantors": [
+      {
+        "fullName": "August Kessler",
+        "phone": "(857) 624-0212",
+        "email": "Skylar.Cummerata-Little86@gmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Camille Cole",
+        "phone": "591-227-6108 x443",
+        "email": "Javonte74@gmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "3f8d1317-f476-4119-a546-3cef8321c99d",
+    "username": "Tito38",
+    "email": "Oscar.Bailey75@gmail.com",
+    "phone": "(875) 402-8355 x660",
+    "organization": "Lendsqr",
+    "status": "Active",
+    "dateJoined": "Oct 28, 2024, 08:06 AM",
+    "accountBalance": "₦212594.80",
+    "savingsBalance": "₦744310.08",
+    "loanBalance": "₦463778.77",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "0826322070",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Lisa Halvorson-Kub",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 0,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Health",
+      "experience": "8 years",
+      "monthlyIncome": "₦182287.99",
+      "loanRepayment": "₦83358"
+    },
+    "socials": {
+      "twitter": "@Tyler.Pacocha",
+      "facebook": "Ewell49",
+      "instagram": "@Leonie96"
+    },
+    "guarantors": [
+      {
+        "fullName": "Jaqueline Upton",
+        "phone": "(211) 487-2604",
+        "email": "Eli68@gmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Houston Bogisich",
+        "phone": "278.447.4421 x8439",
+        "email": "Marlee73@hotmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "dd2fc8fa-fccd-49e4-9884-44b83a1dadce",
+    "username": "Lambert_Bartoletti18",
+    "email": "Ricky18@yahoo.com",
+    "phone": "610-605-5554 x85957",
+    "organization": "Kredi",
+    "status": "Blacklisted",
+    "dateJoined": "Jun 30, 2024, 07:19 AM",
+    "accountBalance": "₦462960.71",
+    "savingsBalance": "₦110351.18",
+    "loanBalance": "₦255473.75",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "3731999708",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Dianna Gleichner",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 2,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Self-Employed",
+      "sector": "FinTech",
+      "experience": "8 years",
+      "monthlyIncome": "₦123872.69",
+      "loanRepayment": "₦67573"
+    },
+    "socials": {
+      "twitter": "@Cheyenne89",
+      "facebook": "Carmella67",
+      "instagram": "@Albin91"
+    },
+    "guarantors": [
+      {
+        "fullName": "Alysha Rolfson",
+        "phone": "298-315-3775 x2291",
+        "email": "Antonia19@gmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Tiffany Stoltenberg",
+        "phone": "613-470-7076 x184",
+        "email": "Nicklaus_Barrows@hotmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "ece364c7-adcf-479d-83bc-2ab58393e843",
+    "username": "Angelita86",
+    "email": "Bernhard.Lehner0@yahoo.com",
+    "phone": "299.226.2436 x13942",
+    "organization": "Kredi",
+    "status": "Pending",
+    "dateJoined": "Apr 25, 2024, 02:05 PM",
+    "accountBalance": "₦75970.11",
+    "savingsBalance": "₦232079.73",
+    "loanBalance": "₦409392.18",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "0012347751",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Jakob Kuhn",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 5,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Self-Employed",
+      "sector": "Education",
+      "experience": "15 years",
+      "monthlyIncome": "₦671838.34",
+      "loanRepayment": "₦83968"
+    },
+    "socials": {
+      "twitter": "@Ulices_Connelly",
+      "facebook": "Amanda_Waelchi",
+      "instagram": "@Jerrell.Ledner11"
+    },
+    "guarantors": [
+      {
+        "fullName": "Cleora Schmidt",
+        "phone": "454.236.1005 x545",
+        "email": "Mohamed.Reynolds43@yahoo.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Monroe Stark",
+        "phone": "298.893.7149 x5766",
+        "email": "Maiya_Barrows@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "3df63796-dad1-4442-998e-580889ded598",
+    "username": "Jettie45",
+    "email": "Darrin_Mante25@yahoo.com",
+    "phone": "637-977-3601",
+    "organization": "Lendsqr",
+    "status": "Active",
+    "dateJoined": "Dec 14, 2024, 11:22 AM",
+    "accountBalance": "₦358168.53",
+    "savingsBalance": "₦350340.53",
+    "loanBalance": "₦128118.65",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "9281510217",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Dorris Simonis",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 4,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Employed",
+      "sector": "FinTech",
+      "experience": "3 years",
+      "monthlyIncome": "₦479894.89",
+      "loanRepayment": "₦72674"
+    },
+    "socials": {
+      "twitter": "@Antonetta.Bruen32",
+      "facebook": "Emmett_Kuhn",
+      "instagram": "@Izaiah.Sauer"
+    },
+    "guarantors": [
+      {
+        "fullName": "Florencio Rowe",
+        "phone": "758.398.3474 x40833",
+        "email": "Gregorio11@gmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Joan Dietrich",
+        "phone": "(806) 403-8250 x1370",
+        "email": "Bertram_Hartmann44@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "1ced05ce-ffac-42dc-92bb-eaf288859249",
+    "username": "Stewart_Lakin",
+    "email": "Justus_Satterfield77@yahoo.com",
+    "phone": "(547) 990-8826 x963",
+    "organization": "Lendsqr",
+    "status": "Inactive",
+    "dateJoined": "Nov 14, 2024, 08:12 PM",
+    "accountBalance": "₦97347.55",
+    "savingsBalance": "₦478253.27",
+    "loanBalance": "₦310583.00",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "7541792037",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Emely Stanton",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 5,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Unemployed",
+      "sector": "Education",
+      "experience": "2 years",
+      "monthlyIncome": "₦866530.28",
+      "loanRepayment": "₦52044"
+    },
+    "socials": {
+      "twitter": "@Zachary1",
+      "facebook": "Pauline_Bartell29",
+      "instagram": "@Addison24"
+    },
+    "guarantors": [
+      {
+        "fullName": "Kim Effertz",
+        "phone": "(443) 929-0801",
+        "email": "Donald.Lang@hotmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Keira Marks",
+        "phone": "1-447-380-5590 x6508",
+        "email": "Skyla_Shields@yahoo.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "fc1fc62a-235c-435c-860f-2c56317b4ab1",
+    "username": "Emelie_Keebler",
+    "email": "Dereck.Toy31@hotmail.com",
+    "phone": "1-825-506-3794 x2735",
+    "organization": "Kredi",
+    "status": "Active",
+    "dateJoined": "Nov 22, 2024, 06:53 AM",
+    "accountBalance": "₦268914.44",
+    "savingsBalance": "₦803491.05",
+    "loanBalance": "₦179019.17",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "3505315027",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Heloise Schaefer",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 2,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "1 years",
+      "monthlyIncome": "₦588728.60",
+      "loanRepayment": "₦73020"
+    },
+    "socials": {
+      "twitter": "@Asa.Ferry50",
+      "facebook": "Daniela.Torp30",
+      "instagram": "@Zella.Cummings68"
+    },
+    "guarantors": [
+      {
+        "fullName": "Phoebe Franecki",
+        "phone": "1-968-699-1012 x51280",
+        "email": "Jordon19@yahoo.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Zakary Torphy",
+        "phone": "1-551-796-9306 x1402",
+        "email": "Junius.Grimes@yahoo.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "1ff43d39-f714-4672-8477-20147e12b6ea",
+    "username": "Isabelle_Little",
+    "email": "Marcelle_Hand56@gmail.com",
+    "phone": "1-576-833-8018 x51539",
+    "organization": "Irorun",
+    "status": "Inactive",
+    "dateJoined": "Apr 26, 2024, 03:39 AM",
+    "accountBalance": "₦217466.22",
+    "savingsBalance": "₦2660.12",
+    "loanBalance": "₦129185.07",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "6865562546",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Kory Brekke",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 4,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Employed",
+      "sector": "Education",
+      "experience": "8 years",
+      "monthlyIncome": "₦780451.46",
+      "loanRepayment": "₦59886"
+    },
+    "socials": {
+      "twitter": "@Raven_OKeefe74",
+      "facebook": "Osbaldo_Nolan59",
+      "instagram": "@Ubaldo_Kertzmann48"
+    },
+    "guarantors": [
+      {
+        "fullName": "Cassandre Pfannerstill",
+        "phone": "491.724.5165 x9547",
+        "email": "Dillon.Torp@gmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Ronny Reichel",
+        "phone": "867-450-3330 x196",
+        "email": "Marina19@gmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "3ea754c1-0bcf-4c17-93de-d21a9cdb4037",
+    "username": "Jaquan26",
+    "email": "Cristopher10@hotmail.com",
+    "phone": "672.527.1560 x697",
+    "organization": "Kredi",
+    "status": "Pending",
+    "dateJoined": "Apr 17, 2024, 07:25 PM",
+    "accountBalance": "₦420217.22",
+    "savingsBalance": "₦849705.40",
+    "loanBalance": "₦416277.88",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "1662550884",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Kathryn Gulgowski",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 4,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Employed",
+      "sector": "Technology",
+      "experience": "12 years",
+      "monthlyIncome": "₦531176.88",
+      "loanRepayment": "₦53762"
+    },
+    "socials": {
+      "twitter": "@Garnet_Stroman27",
+      "facebook": "Frida.Veum",
+      "instagram": "@Evie_Gerhold84"
+    },
+    "guarantors": [
+      {
+        "fullName": "Kelsi Hansen",
+        "phone": "347-770-5691 x51158",
+        "email": "Dock_Wehner@gmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Erna Marquardt",
+        "phone": "357.578.6602 x8061",
+        "email": "Nadia82@hotmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "a187fb4c-9393-4040-b195-2fb3b92b83e6",
+    "username": "Stephan_Boehm93",
+    "email": "Vince31@gmail.com",
+    "phone": "539-962-4329 x81836",
+    "organization": "Kredi",
+    "status": "Blacklisted",
+    "dateJoined": "Jan 6, 2025, 04:05 PM",
+    "accountBalance": "₦482884.73",
+    "savingsBalance": "₦19742.12",
+    "loanBalance": "₦144964.79",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "1457135828",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Garry Ullrich",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 3,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Self-Employed",
+      "sector": "Technology",
+      "experience": "6 years",
+      "monthlyIncome": "₦672798.20",
+      "loanRepayment": "₦37628"
+    },
+    "socials": {
+      "twitter": "@Margarette.Connelly",
+      "facebook": "Darrick_Maggio49",
+      "instagram": "@Donnell_Prohaska"
+    },
+    "guarantors": [
+      {
+        "fullName": "Alessandro Raynor",
+        "phone": "417-485-1493 x827",
+        "email": "Bonita.Koch27@gmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Lonnie Kihn",
+        "phone": "287.539.5664 x2110",
+        "email": "Abdul1@yahoo.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "5fa922eb-15a2-4984-8c5d-c700a827eaae",
+    "username": "Mckayla_Wolff0",
+    "email": "Percival50@gmail.com",
+    "phone": "(867) 644-8943",
+    "organization": "Kredi",
+    "status": "Inactive",
+    "dateJoined": "Aug 9, 2024, 02:29 AM",
+    "accountBalance": "₦244855.10",
+    "savingsBalance": "₦169218.44",
+    "loanBalance": "₦278189.25",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "2413435446",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Matt Dicki",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 5,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "5 years",
+      "monthlyIncome": "₦948707.16",
+      "loanRepayment": "₦93450"
+    },
+    "socials": {
+      "twitter": "@Robb_Beier14",
+      "facebook": "Jewell.Rolfson20",
+      "instagram": "@Vito_Jerde32"
+    },
+    "guarantors": [
+      {
+        "fullName": "Brennan Runolfsdottir",
+        "phone": "1-659-224-9726 x30283",
+        "email": "Claudie5@gmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Austin Kohler",
+        "phone": "1-313-669-8695 x2795",
+        "email": "Kenyon.Olson25@gmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "eba8f266-b546-49ee-b5a8-1c579e56a76d",
+    "username": "Camila.Olson",
+    "email": "Dalton_Beer-Bradtke@yahoo.com",
+    "phone": "(271) 874-7961 x186",
+    "organization": "Irorun",
+    "status": "Blacklisted",
+    "dateJoined": "Feb 8, 2025, 06:27 AM",
+    "accountBalance": "₦295354.89",
+    "savingsBalance": "₦328728.49",
+    "loanBalance": "₦325262.66",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "3236694669",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Camilla Rolfson",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 5,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Unemployed",
+      "sector": "Health",
+      "experience": "8 years",
+      "monthlyIncome": "₦228238.46",
+      "loanRepayment": "₦31128"
+    },
+    "socials": {
+      "twitter": "@Abigayle6",
+      "facebook": "Nestor89",
+      "instagram": "@Juana35"
+    },
+    "guarantors": [
+      {
+        "fullName": "Frederique Mueller",
+        "phone": "(606) 859-4725 x2061",
+        "email": "Yazmin33@hotmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Marcelina Oberbrunner",
+        "phone": "1-590-321-3267",
+        "email": "Keith_Fisher@yahoo.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "1e87893c-1927-4981-8a7a-988f1aa45807",
+    "username": "Skye_Berge40",
+    "email": "Ryder17@hotmail.com",
+    "phone": "767-381-5003",
+    "organization": "Kredi",
+    "status": "Blacklisted",
+    "dateJoined": "Mar 15, 2024, 03:17 AM",
+    "accountBalance": "₦187727.99",
+    "savingsBalance": "₦20320.28",
+    "loanBalance": "₦462618.45",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "6477656246",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Sylvan Roberts",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 3,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "FinTech",
+      "experience": "11 years",
+      "monthlyIncome": "₦324007.13",
+      "loanRepayment": "₦43734"
+    },
+    "socials": {
+      "twitter": "@Aracely.Keeling78",
+      "facebook": "Jack_Skiles",
+      "instagram": "@Fernando.Tromp"
+    },
+    "guarantors": [
+      {
+        "fullName": "Chaim Hoeger",
+        "phone": "975-957-1304 x778",
+        "email": "Susie_VonRueden60@yahoo.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Carmen Cole",
+        "phone": "418.977.3807",
+        "email": "Chelsie71@gmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "2f45a98b-a092-4095-b40b-074d4897a5d3",
+    "username": "Joanny74",
+    "email": "Tristin_Gibson@yahoo.com",
+    "phone": "938-530-0596",
+    "organization": "Kredi",
+    "status": "Inactive",
+    "dateJoined": "Jul 1, 2024, 07:12 PM",
+    "accountBalance": "₦2751.70",
+    "savingsBalance": "₦353010.40",
+    "loanBalance": "₦483229.01",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "2229199378",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Roxane Satterfield",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 2,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Unemployed",
+      "sector": "Health",
+      "experience": "8 years",
+      "monthlyIncome": "₦988883.58",
+      "loanRepayment": "₦95601"
+    },
+    "socials": {
+      "twitter": "@Nicholaus21",
+      "facebook": "Jacinthe.Cummerata30",
+      "instagram": "@Mario.Mayert"
+    },
+    "guarantors": [
+      {
+        "fullName": "Audie Bahringer",
+        "phone": "1-814-923-1863 x184",
+        "email": "Tracy_Funk@yahoo.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Elenora Rice",
+        "phone": "840.867.2275 x239",
+        "email": "Sierra.Rippin@hotmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "1b75c1d0-d4a5-45a3-a9ac-dae75220d0f5",
+    "username": "Mabelle_Feeney19",
+    "email": "Abdul24@yahoo.com",
+    "phone": "(902) 840-2943 x34714",
+    "organization": "Lendsqr",
+    "status": "Pending",
+    "dateJoined": "Apr 25, 2024, 11:13 PM",
+    "accountBalance": "₦489774.36",
+    "savingsBalance": "₦884820.69",
+    "loanBalance": "₦41811.47",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "8433888867",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Ona Bernier",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 5,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Employed",
+      "sector": "Education",
+      "experience": "5 years",
+      "monthlyIncome": "₦856155.76",
+      "loanRepayment": "₦91131"
+    },
+    "socials": {
+      "twitter": "@Clarissa_Rippin",
+      "facebook": "Casimer_Shields",
+      "instagram": "@Abelardo.Windler"
+    },
+    "guarantors": [
+      {
+        "fullName": "Aubrey Turner",
+        "phone": "1-559-540-2876 x020",
+        "email": "Otis85@hotmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Irwin Walter",
+        "phone": "393.494.9542",
+        "email": "Orpha.Kilback@hotmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "a7998ebe-8058-440d-bfed-5852a389c2ea",
+    "username": "Conrad.Weber59",
+    "email": "Asha.Welch91@hotmail.com",
+    "phone": "(301) 488-6385",
+    "organization": "Kredi",
+    "status": "Active",
+    "dateJoined": "Jul 6, 2024, 11:19 PM",
+    "accountBalance": "₦75035.87",
+    "savingsBalance": "₦839701.45",
+    "loanBalance": "₦216929.44",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "6989359924",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Mose Macejkovic",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 1,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Technology",
+      "experience": "13 years",
+      "monthlyIncome": "₦437080.44",
+      "loanRepayment": "₦28939"
+    },
+    "socials": {
+      "twitter": "@Frankie.Koelpin-Wehner79",
+      "facebook": "Alexandra.Swift23",
+      "instagram": "@Rudolph_Mertz30"
+    },
+    "guarantors": [
+      {
+        "fullName": "Mathias Dach",
+        "phone": "(528) 242-1952 x8098",
+        "email": "Eleanora45@yahoo.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Darion Marquardt",
+        "phone": "1-686-707-1325 x3537",
+        "email": "Roslyn14@hotmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "7fc638f3-6aaf-4db4-8157-7d6a99a82ee0",
+    "username": "Dina.Wintheiser",
+    "email": "Jany_Douglas67@hotmail.com",
+    "phone": "536-220-9158 x2336",
+    "organization": "Lendstar",
+    "status": "Active",
+    "dateJoined": "Apr 14, 2024, 01:02 PM",
+    "accountBalance": "₦340392.20",
+    "savingsBalance": "₦780831.67",
+    "loanBalance": "₦412832.80",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "2053526941",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Hortense Corwin",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 2,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Employed",
+      "sector": "Health",
+      "experience": "14 years",
+      "monthlyIncome": "₦990210.15",
+      "loanRepayment": "₦23096"
+    },
+    "socials": {
+      "twitter": "@Newton_Veum",
+      "facebook": "Savion.Witting54",
+      "instagram": "@Patience.Bartoletti68"
+    },
+    "guarantors": [
+      {
+        "fullName": "Noelia D'Amore",
+        "phone": "311.907.1354 x88175",
+        "email": "Adelbert_Kohler@yahoo.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Mallory Marks",
+        "phone": "448-801-6894",
+        "email": "Zechariah_Mohr36@hotmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "eda28182-add3-4090-a879-2d54d24c4760",
+    "username": "Shanon.Bins",
+    "email": "Corene.Pouros-Bahringer71@yahoo.com",
+    "phone": "207.436.9205 x7547",
+    "organization": "Kredi",
+    "status": "Blacklisted",
+    "dateJoined": "Aug 21, 2024, 06:34 AM",
+    "accountBalance": "₦455603.04",
+    "savingsBalance": "₦593245.35",
+    "loanBalance": "₦170863.90",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "7734415722",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Reynold Konopelski",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 2,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "9 years",
+      "monthlyIncome": "₦506417.18",
+      "loanRepayment": "₦50545"
+    },
+    "socials": {
+      "twitter": "@Shaniya.Wilkinson9",
+      "facebook": "Neil.Grimes",
+      "instagram": "@Nova_Larkin"
+    },
+    "guarantors": [
+      {
+        "fullName": "Earl Towne",
+        "phone": "1-231-465-8849 x4220",
+        "email": "Lilian_Windler59@hotmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Lolita Schmeler",
+        "phone": "267.873.0429 x922",
+        "email": "Levi_Rice@hotmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "322a4e90-b24c-4b1b-9723-69e4dc2ec642",
+    "username": "Justus19",
+    "email": "Larry58@gmail.com",
+    "phone": "1-505-220-2431",
+    "organization": "Kredi",
+    "status": "Inactive",
+    "dateJoined": "Dec 18, 2024, 01:12 PM",
+    "accountBalance": "₦9361.51",
+    "savingsBalance": "₦153175.31",
+    "loanBalance": "₦468704.02",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "4689083182",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Lavern Breitenberg",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 0,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Self-Employed",
+      "sector": "Health",
+      "experience": "6 years",
+      "monthlyIncome": "₦420330.50",
+      "loanRepayment": "₦37735"
+    },
+    "socials": {
+      "twitter": "@Andy.Toy77",
+      "facebook": "Paul_Miller",
+      "instagram": "@Augustine.Yundt"
+    },
+    "guarantors": [
+      {
+        "fullName": "Jon Olson",
+        "phone": "1-224-959-7496 x844",
+        "email": "Georgette8@gmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Zoie Medhurst",
+        "phone": "939.276.8064",
+        "email": "Charles.Christiansen32@hotmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "5f65b4c7-b0f3-4dc4-a088-037acd0da064",
+    "username": "Quincy_Hickle",
+    "email": "Nella_OReilly32@gmail.com",
+    "phone": "977.821.4989 x9923",
+    "organization": "Lendsqr",
+    "status": "Inactive",
+    "dateJoined": "Jul 31, 2024, 11:25 AM",
+    "accountBalance": "₦71728.73",
+    "savingsBalance": "₦953441.36",
+    "loanBalance": "₦451654.71",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "3265472417",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Kattie Lang",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 1,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Self-Employed",
+      "sector": "FinTech",
+      "experience": "16 years",
+      "monthlyIncome": "₦926584.77",
+      "loanRepayment": "₦21453"
+    },
+    "socials": {
+      "twitter": "@Salvatore.Orn62",
+      "facebook": "Baron79",
+      "instagram": "@Catalina5"
+    },
+    "guarantors": [
+      {
+        "fullName": "Shanon Kris",
+        "phone": "503-458-4110 x097",
+        "email": "Brycen_OHara@gmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Marianna Veum",
+        "phone": "806.544.9230 x83778",
+        "email": "Cleve83@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "91da2186-5415-4fb1-88a9-b3fd0b411775",
+    "username": "Pasquale38",
+    "email": "Ola.Schulist82@gmail.com",
+    "phone": "(710) 687-3101 x0363",
+    "organization": "Lendstar",
+    "status": "Blacklisted",
+    "dateJoined": "Apr 21, 2024, 02:48 AM",
+    "accountBalance": "₦213013.55",
+    "savingsBalance": "₦483596.42",
+    "loanBalance": "₦463663.32",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "6535397535",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Kip Kilback",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 1,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Unemployed",
+      "sector": "Education",
+      "experience": "17 years",
+      "monthlyIncome": "₦685766.89",
+      "loanRepayment": "₦20082"
+    },
+    "socials": {
+      "twitter": "@Faye_Wolff29",
+      "facebook": "Shayna_Langosh",
+      "instagram": "@Chelsey.Bauch90"
+    },
+    "guarantors": [
+      {
+        "fullName": "Briana Goldner",
+        "phone": "519-374-9811",
+        "email": "Winfield.Pagac@gmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Angelina Tillman",
+        "phone": "1-492-703-5773 x38658",
+        "email": "Ada.Bruen@hotmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "eb95e463-0d5d-488d-a364-9b6d6c3a3056",
+    "username": "Miller76",
+    "email": "Jeffery_Franey20@hotmail.com",
+    "phone": "328.392.6757 x36682",
+    "organization": "Lendsqr",
+    "status": "Pending",
+    "dateJoined": "Mar 25, 2024, 06:47 PM",
+    "accountBalance": "₦205627.27",
+    "savingsBalance": "₦626620.47",
+    "loanBalance": "₦112683.59",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "4739303892",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Kaleb Gutmann",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 1,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Self-Employed",
+      "sector": "Technology",
+      "experience": "10 years",
+      "monthlyIncome": "₦143413.27",
+      "loanRepayment": "₦17448"
+    },
+    "socials": {
+      "twitter": "@Freda_Schumm",
+      "facebook": "Rafael.Zboncak2",
+      "instagram": "@Alexandrine_Pfannerstill"
+    },
+    "guarantors": [
+      {
+        "fullName": "Helene O'Reilly-Stehr",
+        "phone": "1-561-759-3701 x91669",
+        "email": "Alena.Jakubowski@hotmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Carolina Rice",
+        "phone": "558.542.5577 x66276",
+        "email": "Yesenia74@gmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "a1858e66-6280-4596-a7d3-b434d9696b97",
+    "username": "Mariah_Hayes",
+    "email": "Marilyne55@gmail.com",
+    "phone": "(900) 508-4094",
+    "organization": "Irorun",
+    "status": "Inactive",
+    "dateJoined": "Apr 22, 2024, 12:48 PM",
+    "accountBalance": "₦82310.68",
+    "savingsBalance": "₦385593.51",
+    "loanBalance": "₦271313.40",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "1799246670",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Oswaldo Halvorson",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 3,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Unemployed",
+      "sector": "Education",
+      "experience": "8 years",
+      "monthlyIncome": "₦662506.80",
+      "loanRepayment": "₦32551"
+    },
+    "socials": {
+      "twitter": "@Roma_Streich32",
+      "facebook": "Hiram.Graham",
+      "instagram": "@Charles.Simonis"
+    },
+    "guarantors": [
+      {
+        "fullName": "Theron Dooley",
+        "phone": "682-573-2965 x2319",
+        "email": "Rebecca.Hoeger@hotmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Cyrus O'Kon",
+        "phone": "555.663.4513 x054",
+        "email": "Everardo.Wunsch@gmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "4c2ef176-2483-498f-b6ed-c92ac33990e5",
+    "username": "Shayne_Corwin",
+    "email": "Glenda_Kling19@hotmail.com",
+    "phone": "(875) 746-7962 x252",
+    "organization": "Lendsqr",
+    "status": "Pending",
+    "dateJoined": "Jun 18, 2024, 09:09 PM",
+    "accountBalance": "₦251697.22",
+    "savingsBalance": "₦567272.05",
+    "loanBalance": "₦159145.68",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "7373259855",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Micaela Powlowski",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 5,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Self-Employed",
+      "sector": "Health",
+      "experience": "13 years",
+      "monthlyIncome": "₦562682.54",
+      "loanRepayment": "₦52697"
+    },
+    "socials": {
+      "twitter": "@Marguerite95",
+      "facebook": "Delpha.Abshire1",
+      "instagram": "@Madalyn47"
+    },
+    "guarantors": [
+      {
+        "fullName": "Luciano Keeling",
+        "phone": "1-755-494-3432 x788",
+        "email": "Reyes_Ledner61@gmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Marilie Gerhold",
+        "phone": "1-799-758-6367 x68413",
+        "email": "Ambrose49@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "30526bf5-2838-444c-8c2f-7f555726b1da",
+    "username": "Tristin.Heaney",
+    "email": "Francesco.Hintz@gmail.com",
+    "phone": "1-896-501-0907 x79016",
+    "organization": "Lendstar",
+    "status": "Active",
+    "dateJoined": "Sep 12, 2024, 05:50 PM",
+    "accountBalance": "₦25263.85",
+    "savingsBalance": "₦805556.33",
+    "loanBalance": "₦349357.06",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "8910131238",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Yvette Gerlach",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 2,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "16 years",
+      "monthlyIncome": "₦619013.42",
+      "loanRepayment": "₦77150"
+    },
+    "socials": {
+      "twitter": "@Joyce32",
+      "facebook": "Vinnie.Baumbach",
+      "instagram": "@Camron.Pacocha33"
+    },
+    "guarantors": [
+      {
+        "fullName": "Della Konopelski",
+        "phone": "419.762.4620 x380",
+        "email": "Vilma69@gmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Antonetta Goldner",
+        "phone": "(717) 884-9180",
+        "email": "Avis.Reilly29@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "141ccc73-92dd-4a90-ae99-9467e959b8e0",
+    "username": "Brianne_Hahn25",
+    "email": "Benny2@hotmail.com",
+    "phone": "(676) 608-2987 x27832",
+    "organization": "Kredi",
+    "status": "Inactive",
+    "dateJoined": "Jan 12, 2025, 09:13 PM",
+    "accountBalance": "₦417545.76",
+    "savingsBalance": "₦154646.01",
+    "loanBalance": "₦307826.52",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "5424563705",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Mandy Rath",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 3,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Unemployed",
+      "sector": "Education",
+      "experience": "3 years",
+      "monthlyIncome": "₦627641.10",
+      "loanRepayment": "₦79468"
+    },
+    "socials": {
+      "twitter": "@Jamey.Heathcote",
+      "facebook": "Jadon79",
+      "instagram": "@Rebeka7"
+    },
+    "guarantors": [
+      {
+        "fullName": "Baylee Langworth",
+        "phone": "(301) 758-8129 x3125",
+        "email": "Adrian_Becker24@yahoo.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Henry Cole",
+        "phone": "(873) 667-5841 x269",
+        "email": "Ruth.Parisian-Greenholt@hotmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "896a7bff-348a-433b-8942-fe084424cc7e",
+    "username": "Tomas.Stracke34",
+    "email": "Elva_Tremblay@gmail.com",
+    "phone": "301.409.2499 x7827",
+    "organization": "Irorun",
+    "status": "Blacklisted",
+    "dateJoined": "Oct 10, 2024, 10:25 AM",
+    "accountBalance": "₦192612.32",
+    "savingsBalance": "₦804622.66",
+    "loanBalance": "₦339896.95",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "9309765228",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Royal Gottlieb",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 4,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Employed",
+      "sector": "Health",
+      "experience": "6 years",
+      "monthlyIncome": "₦275888.40",
+      "loanRepayment": "₦23962"
+    },
+    "socials": {
+      "twitter": "@Karelle53",
+      "facebook": "Rachel4",
+      "instagram": "@Garrison10"
+    },
+    "guarantors": [
+      {
+        "fullName": "Everardo Hodkiewicz",
+        "phone": "245-700-3483 x44062",
+        "email": "Gudrun.Carter@yahoo.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Arvid Will",
+        "phone": "459.905.6355 x7822",
+        "email": "Reed82@yahoo.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "0e0310f4-d46e-4f8d-8164-861ed1ac25d5",
+    "username": "Cade_Spinka37",
+    "email": "Cynthia89@yahoo.com",
+    "phone": "1-444-973-3961 x74487",
+    "organization": "Lendstar",
+    "status": "Pending",
+    "dateJoined": "Dec 21, 2024, 05:53 PM",
+    "accountBalance": "₦185362.73",
+    "savingsBalance": "₦250542.52",
+    "loanBalance": "₦84034.53",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "4734620651",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Ilene Schuppe",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 2,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Unemployed",
+      "sector": "FinTech",
+      "experience": "2 years",
+      "monthlyIncome": "₦382240.24",
+      "loanRepayment": "₦18686"
+    },
+    "socials": {
+      "twitter": "@Nathan_Hansen33",
+      "facebook": "Alverta.Wintheiser95",
+      "instagram": "@Janet_Dach"
+    },
+    "guarantors": [
+      {
+        "fullName": "Eloisa Nitzsche",
+        "phone": "(862) 674-9309 x881",
+        "email": "Benny51@hotmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Rubie MacGyver-Beahan",
+        "phone": "816-740-7441 x9876",
+        "email": "Paige_Rath@hotmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "8f1e81e8-180c-44ac-82af-fd7c27263df4",
+    "username": "Emerald56",
+    "email": "Jaylin99@gmail.com",
+    "phone": "(670) 884-4006 x62510",
+    "organization": "Irorun",
+    "status": "Active",
+    "dateJoined": "Nov 7, 2024, 11:57 AM",
+    "accountBalance": "₦276153.50",
+    "savingsBalance": "₦849915.08",
+    "loanBalance": "₦330857.11",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "9716832796",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Matteo McCullough",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 5,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Employed",
+      "sector": "Education",
+      "experience": "5 years",
+      "monthlyIncome": "₦601402.29",
+      "loanRepayment": "₦56693"
+    },
+    "socials": {
+      "twitter": "@Vincent.Stamm",
+      "facebook": "Kianna.Schowalter12",
+      "instagram": "@Winnifred.Lehner"
+    },
+    "guarantors": [
+      {
+        "fullName": "Samara Kub",
+        "phone": "380-268-5814",
+        "email": "Yessenia.Runolfsdottir@yahoo.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Hailee Howe",
+        "phone": "442.245.4518 x8495",
+        "email": "Asia_Grimes38@yahoo.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "5441c6e0-3035-458f-a1ec-b839d1f859cc",
+    "username": "Vince57",
+    "email": "Flavio_Jacobs@hotmail.com",
+    "phone": "901.320.2189 x49015",
+    "organization": "Lendsqr",
+    "status": "Pending",
+    "dateJoined": "Dec 3, 2024, 08:36 PM",
+    "accountBalance": "₦247746.96",
+    "savingsBalance": "₦62978.44",
+    "loanBalance": "₦20052.05",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "7780188568",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Jessie Deckow",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 1,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Self-Employed",
+      "sector": "Education",
+      "experience": "17 years",
+      "monthlyIncome": "₦427872.18",
+      "loanRepayment": "₦81192"
+    },
+    "socials": {
+      "twitter": "@Breanna_Olson84",
+      "facebook": "Lorine6",
+      "instagram": "@Jerad.Welch61"
+    },
+    "guarantors": [
+      {
+        "fullName": "Christop Hermann",
+        "phone": "328.344.8629 x699",
+        "email": "Rowland_Kuhn@hotmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Isabella Jacobi",
+        "phone": "540-644-3340",
+        "email": "Orrin.Kohler@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "1faafdd4-1568-4a09-8949-e743eceb7d44",
+    "username": "Lilly33",
+    "email": "Paolo_Mills@yahoo.com",
+    "phone": "(864) 790-1082",
+    "organization": "Kredi",
+    "status": "Inactive",
+    "dateJoined": "Nov 28, 2024, 11:10 PM",
+    "accountBalance": "₦400877.91",
+    "savingsBalance": "₦662420.03",
+    "loanBalance": "₦490487.86",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "9874341873",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Westley Rogahn",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 1,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Self-Employed",
+      "sector": "FinTech",
+      "experience": "14 years",
+      "monthlyIncome": "₦170123.31",
+      "loanRepayment": "₦22952"
+    },
+    "socials": {
+      "twitter": "@Angela65",
+      "facebook": "Autumn.Legros55",
+      "instagram": "@Francisco.Collins72"
+    },
+    "guarantors": [
+      {
+        "fullName": "Torrance Bruen-Weissnat",
+        "phone": "904-853-0456 x23925",
+        "email": "Eugene93@gmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Oda Kuhn",
+        "phone": "761-938-0789 x2160",
+        "email": "Fleta40@hotmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "b2f5fe69-fb94-4f36-8ebf-c4855fe8be12",
+    "username": "Destinee_Rice",
+    "email": "Alessia99@gmail.com",
+    "phone": "337.814.8594 x86989",
+    "organization": "Irorun",
+    "status": "Pending",
+    "dateJoined": "Dec 27, 2024, 10:52 AM",
+    "accountBalance": "₦215037.63",
+    "savingsBalance": "₦800045.10",
+    "loanBalance": "₦2842.51",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "9742902475",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Ressie Wisozk",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 2,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Unemployed",
+      "sector": "FinTech",
+      "experience": "8 years",
+      "monthlyIncome": "₦807095.05",
+      "loanRepayment": "₦70980"
+    },
+    "socials": {
+      "twitter": "@Jevon53",
+      "facebook": "Shaylee.Tromp",
+      "instagram": "@Jessy.Vandervort30"
+    },
+    "guarantors": [
+      {
+        "fullName": "Berta McLaughlin",
+        "phone": "(753) 589-4128 x00841",
+        "email": "Leopold.Schaefer@yahoo.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Madge Stark",
+        "phone": "1-626-484-3520 x343",
+        "email": "Stevie17@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "7c80d73e-cfad-4ad9-bafa-0b05217e3b75",
+    "username": "Triston14",
+    "email": "Everette.Kozey85@gmail.com",
+    "phone": "1-884-837-6777 x6716",
+    "organization": "Kredi",
+    "status": "Inactive",
+    "dateJoined": "Dec 29, 2024, 04:20 PM",
+    "accountBalance": "₦103790.66",
+    "savingsBalance": "₦91804.42",
+    "loanBalance": "₦294069.01",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "6069776981",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Freeda Rogahn",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 2,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Self-Employed",
+      "sector": "Health",
+      "experience": "2 years",
+      "monthlyIncome": "₦185916.39",
+      "loanRepayment": "₦15867"
+    },
+    "socials": {
+      "twitter": "@Mozelle_Hickle84",
+      "facebook": "Virginie.Lockman16",
+      "instagram": "@Megane79"
+    },
+    "guarantors": [
+      {
+        "fullName": "Tanner Lesch",
+        "phone": "850.331.7810 x21074",
+        "email": "Jeramie.King@yahoo.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Kirsten Larson",
+        "phone": "654-220-2790 x5027",
+        "email": "Adella.Johnston-Jakubowski@gmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "bfb7a5e5-5dba-4bae-abdb-058614f3d070",
+    "username": "Curtis.DAmore",
+    "email": "Stone34@hotmail.com",
+    "phone": "(903) 831-5596 x4998",
+    "organization": "Irorun",
+    "status": "Inactive",
+    "dateJoined": "Jul 11, 2024, 08:34 AM",
+    "accountBalance": "₦149363.99",
+    "savingsBalance": "₦291570.65",
+    "loanBalance": "₦492924.36",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "5778231330",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Johnny Haley",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 5,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Self-Employed",
+      "sector": "Health",
+      "experience": "18 years",
+      "monthlyIncome": "₦318208.92",
+      "loanRepayment": "₦53288"
+    },
+    "socials": {
+      "twitter": "@Wilmer.Auer90",
+      "facebook": "Guy_Pacocha",
+      "instagram": "@Leila.Stracke72"
+    },
+    "guarantors": [
+      {
+        "fullName": "Allison Klocko",
+        "phone": "(907) 970-7988 x490",
+        "email": "Dolly_OKeefe@yahoo.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Brendon Monahan",
+        "phone": "224.279.0687",
+        "email": "Eda.Moore@yahoo.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "0134886a-b322-460d-84e8-2a035ece5d25",
+    "username": "Arden_Kshlerin",
+    "email": "Gilbert52@hotmail.com",
+    "phone": "560-425-0107 x29949",
+    "organization": "Kredi",
+    "status": "Blacklisted",
+    "dateJoined": "Oct 22, 2024, 08:57 PM",
+    "accountBalance": "₦297425.64",
+    "savingsBalance": "₦677266.02",
+    "loanBalance": "₦162216.64",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "4267373863",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Ilene Wisozk",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 1,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Unemployed",
+      "sector": "Education",
+      "experience": "10 years",
+      "monthlyIncome": "₦864542.95",
+      "loanRepayment": "₦46774"
+    },
+    "socials": {
+      "twitter": "@Alden.Rice",
+      "facebook": "Juvenal55",
+      "instagram": "@Darien22"
+    },
+    "guarantors": [
+      {
+        "fullName": "Alexzander McLaughlin",
+        "phone": "(230) 436-2457",
+        "email": "Dedric61@hotmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Aiden Schmitt",
+        "phone": "1-244-841-4537",
+        "email": "Melyssa71@hotmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "2781bae2-c10b-42cc-8796-ea669d9d193b",
+    "username": "Josiah64",
+    "email": "Evan.Kilback@yahoo.com",
+    "phone": "355.200.8032",
+    "organization": "Irorun",
+    "status": "Blacklisted",
+    "dateJoined": "Mar 1, 2024, 02:59 AM",
+    "accountBalance": "₦354493.50",
+    "savingsBalance": "₦135290.07",
+    "loanBalance": "₦455285.76",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "2492043320",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Jayson Ernser",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 4,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Employed",
+      "sector": "FinTech",
+      "experience": "14 years",
+      "monthlyIncome": "₦368693.24",
+      "loanRepayment": "₦95133"
+    },
+    "socials": {
+      "twitter": "@Brooklyn_OReilly11",
+      "facebook": "Elinor.Grimes",
+      "instagram": "@Federico93"
+    },
+    "guarantors": [
+      {
+        "fullName": "Quincy Watsica",
+        "phone": "241.275.9671 x2665",
+        "email": "Andreane.Streich@hotmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Berry Macejkovic",
+        "phone": "(675) 747-6526 x049",
+        "email": "Elsa.Ryan@gmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "087642a1-9c68-42b3-a916-63adc7b0a7bf",
+    "username": "Armando_Fay30",
+    "email": "Lue60@gmail.com",
+    "phone": "1-493-297-9645",
+    "organization": "Kredi",
+    "status": "Active",
+    "dateJoined": "Sep 9, 2024, 04:47 AM",
+    "accountBalance": "₦396167.18",
+    "savingsBalance": "₦464329.84",
+    "loanBalance": "₦387137.90",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "8709610732",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Dennis Schuster",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 1,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Employed",
+      "sector": "Health",
+      "experience": "17 years",
+      "monthlyIncome": "₦634164.71",
+      "loanRepayment": "₦28757"
+    },
+    "socials": {
+      "twitter": "@Colton98",
+      "facebook": "Fabiola42",
+      "instagram": "@Christelle89"
+    },
+    "guarantors": [
+      {
+        "fullName": "Mayra Waters",
+        "phone": "843.375.9188",
+        "email": "Lemuel75@hotmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Sylvan Lockman",
+        "phone": "748.703.7887 x48829",
+        "email": "Abbey.Rodriguez42@yahoo.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "a2a7a1bb-a38c-47f6-b957-3cd44061d871",
+    "username": "Ivory_Senger",
+    "email": "Joel_Funk@yahoo.com",
+    "phone": "648.466.4012",
+    "organization": "Lendstar",
+    "status": "Inactive",
+    "dateJoined": "Nov 17, 2024, 07:26 PM",
+    "accountBalance": "₦303562.14",
+    "savingsBalance": "₦550039.38",
+    "loanBalance": "₦230474.54",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "0012852106",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Percival Rippin",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 2,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Unemployed",
+      "sector": "FinTech",
+      "experience": "20 years",
+      "monthlyIncome": "₦430481.38",
+      "loanRepayment": "₦81863"
+    },
+    "socials": {
+      "twitter": "@Hipolito.Morissette7",
+      "facebook": "Stone_Pfannerstill92",
+      "instagram": "@Nathanial63"
+    },
+    "guarantors": [
+      {
+        "fullName": "Adelia Witting-Kassulke",
+        "phone": "1-435-679-5701 x305",
+        "email": "Mae.Ondricka@hotmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Tyshawn Orn",
+        "phone": "(975) 738-4461 x9061",
+        "email": "Victor37@hotmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "26091b23-b2fe-4ffd-aa8e-f86050710309",
+    "username": "Kimberly_Rice67",
+    "email": "Amiya77@yahoo.com",
+    "phone": "(732) 268-1966",
+    "organization": "Irorun",
+    "status": "Inactive",
+    "dateJoined": "Aug 9, 2024, 09:01 PM",
+    "accountBalance": "₦288125.00",
+    "savingsBalance": "₦350786.58",
+    "loanBalance": "₦483482.72",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "3194321697",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Cecil Friesen",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 3,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "FinTech",
+      "experience": "2 years",
+      "monthlyIncome": "₦375584.22",
+      "loanRepayment": "₦10183"
+    },
+    "socials": {
+      "twitter": "@Jaleel_Emard",
+      "facebook": "Kenya_Bailey",
+      "instagram": "@Deonte42"
+    },
+    "guarantors": [
+      {
+        "fullName": "Tod Wilderman",
+        "phone": "1-819-590-1630 x60520",
+        "email": "Keon_Rice@yahoo.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Antonietta Streich",
+        "phone": "979-618-1815 x2613",
+        "email": "Roslyn_Carroll99@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "654cfa72-b2e6-460e-9bd9-c76c402be2f1",
+    "username": "Abel.Upton66",
+    "email": "Mortimer.Ratke26@yahoo.com",
+    "phone": "657-416-5512 x291",
+    "organization": "Irorun",
+    "status": "Inactive",
+    "dateJoined": "Jul 24, 2024, 12:13 PM",
+    "accountBalance": "₦279517.23",
+    "savingsBalance": "₦218545.67",
+    "loanBalance": "₦112105.22",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "4185878245",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Jackeline Parisian",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 5,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Self-Employed",
+      "sector": "Technology",
+      "experience": "11 years",
+      "monthlyIncome": "₦936803.75",
+      "loanRepayment": "₦45459"
+    },
+    "socials": {
+      "twitter": "@Cloyd15",
+      "facebook": "Mafalda_Stokes",
+      "instagram": "@Aubrey20"
+    },
+    "guarantors": [
+      {
+        "fullName": "Eliezer Littel",
+        "phone": "(435) 298-4468 x17115",
+        "email": "Dejon.McLaughlin39@gmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Lilla Johnston",
+        "phone": "529.745.6893",
+        "email": "Iliana43@yahoo.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "1c61ab4f-e962-486c-9101-ba70d9d07319",
+    "username": "Marilyne_White37",
+    "email": "Delphia.Parker76@yahoo.com",
+    "phone": "1-681-651-1617 x36060",
+    "organization": "Lendstar",
+    "status": "Pending",
+    "dateJoined": "Mar 17, 2024, 11:16 AM",
+    "accountBalance": "₦487786.58",
+    "savingsBalance": "₦461736.73",
+    "loanBalance": "₦64899.74",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "7788924162",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Foster VonRueden-Jenkins",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 5,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Unemployed",
+      "sector": "Health",
+      "experience": "3 years",
+      "monthlyIncome": "₦335790.31",
+      "loanRepayment": "₦99776"
+    },
+    "socials": {
+      "twitter": "@Leda_OKeefe90",
+      "facebook": "Bill.Sanford66",
+      "instagram": "@Newton37"
+    },
+    "guarantors": [
+      {
+        "fullName": "Haskell Lang",
+        "phone": "1-941-467-3980",
+        "email": "Howard91@gmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Logan Weissnat",
+        "phone": "255-306-8833",
+        "email": "Laisha.Emard92@yahoo.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "02f6c710-75a5-4b96-bcd7-454d4a3fbe0d",
+    "username": "Kelley53",
+    "email": "Clifford.Towne-Smith19@hotmail.com",
+    "phone": "893-521-3029",
+    "organization": "Lendstar",
+    "status": "Active",
+    "dateJoined": "Feb 19, 2025, 05:23 PM",
+    "accountBalance": "₦177310.86",
+    "savingsBalance": "₦531910.44",
+    "loanBalance": "₦91626.16",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "0089979102",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Douglas Johnson",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 5,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Unemployed",
+      "sector": "FinTech",
+      "experience": "9 years",
+      "monthlyIncome": "₦197246.10",
+      "loanRepayment": "₦70975"
+    },
+    "socials": {
+      "twitter": "@Ollie.Bechtelar",
+      "facebook": "Eddie9",
+      "instagram": "@Hipolito92"
+    },
+    "guarantors": [
+      {
+        "fullName": "Elna Windler",
+        "phone": "1-222-874-4341 x833",
+        "email": "Mozelle_Bayer45@hotmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Josie MacGyver",
+        "phone": "(520) 275-2037 x14419",
+        "email": "Beatrice.Leannon60@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "3cbe1c16-4923-4790-8efd-5246269cde2e",
+    "username": "Lloyd52",
+    "email": "Elliot38@gmail.com",
+    "phone": "1-746-861-9666 x88275",
+    "organization": "Lendstar",
+    "status": "Inactive",
+    "dateJoined": "Apr 18, 2024, 05:59 PM",
+    "accountBalance": "₦228660.65",
+    "savingsBalance": "₦350613.46",
+    "loanBalance": "₦347780.71",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "0541371986",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Jessika Murazik",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 3,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Unemployed",
+      "sector": "Health",
+      "experience": "2 years",
+      "monthlyIncome": "₦137487.51",
+      "loanRepayment": "₦32143"
+    },
+    "socials": {
+      "twitter": "@Bridget_Wunsch82",
+      "facebook": "Lewis.Davis19",
+      "instagram": "@Elbert_Konopelski"
+    },
+    "guarantors": [
+      {
+        "fullName": "Torrance Watsica",
+        "phone": "718.798.1821 x38792",
+        "email": "Easter_Zieme@gmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Javonte Abernathy",
+        "phone": "1-420-426-2542",
+        "email": "Victoria_Weissnat96@gmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "936ad088-d0a7-4577-870c-5defbd61b1f2",
+    "username": "Nils_Kutch29",
+    "email": "Connor_McDermott40@hotmail.com",
+    "phone": "(647) 332-3589 x929",
+    "organization": "Irorun",
+    "status": "Active",
+    "dateJoined": "Jun 7, 2024, 03:28 PM",
+    "accountBalance": "₦65866.29",
+    "savingsBalance": "₦807709.59",
+    "loanBalance": "₦269614.24",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "4539380115",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Flo Bayer",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 2,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Self-Employed",
+      "sector": "Education",
+      "experience": "19 years",
+      "monthlyIncome": "₦777819.27",
+      "loanRepayment": "₦81993"
+    },
+    "socials": {
+      "twitter": "@Martina63",
+      "facebook": "Aliza.OKon",
+      "instagram": "@Hester85"
+    },
+    "guarantors": [
+      {
+        "fullName": "Bessie Koss",
+        "phone": "487-257-6046 x46486",
+        "email": "Rudy_Smitham@yahoo.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Angelica Effertz",
+        "phone": "(319) 493-3455 x45111",
+        "email": "Dennis97@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "04bbc496-6cb4-49e7-a740-47432fc2e488",
+    "username": "Taylor_Hartmann55",
+    "email": "Avery83@hotmail.com",
+    "phone": "(234) 346-8731 x24554",
+    "organization": "Lendsqr",
+    "status": "Pending",
+    "dateJoined": "Jul 3, 2024, 06:45 PM",
+    "accountBalance": "₦182713.07",
+    "savingsBalance": "₦51607.35",
+    "loanBalance": "₦80338.60",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "7675376366",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Delta Botsford",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 1,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Employed",
+      "sector": "FinTech",
+      "experience": "15 years",
+      "monthlyIncome": "₦899451.69",
+      "loanRepayment": "₦50574"
+    },
+    "socials": {
+      "twitter": "@Jeffery31",
+      "facebook": "Maud.Prosacco21",
+      "instagram": "@Karine_Leffler38"
+    },
+    "guarantors": [
+      {
+        "fullName": "Chelsey Armstrong",
+        "phone": "(222) 424-0948 x60747",
+        "email": "Brice_Tillman-Stehr0@gmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Hayley Macejkovic",
+        "phone": "1-647-913-8552 x009",
+        "email": "Kevon_Swaniawski47@gmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "a7b9a190-f3c2-4331-9d58-8bc8272d10a2",
+    "username": "Ahmad_Wyman",
+    "email": "Raina_Spinka@hotmail.com",
+    "phone": "230.304.8553",
+    "organization": "Kredi",
+    "status": "Active",
+    "dateJoined": "Apr 18, 2024, 07:53 AM",
+    "accountBalance": "₦438083.16",
+    "savingsBalance": "₦576870.27",
+    "loanBalance": "₦315954.38",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "3928611564",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Letitia Marquardt",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 3,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Employed",
+      "sector": "FinTech",
+      "experience": "5 years",
+      "monthlyIncome": "₦394843.62",
+      "loanRepayment": "₦94228"
+    },
+    "socials": {
+      "twitter": "@Baylee.Hilll52",
+      "facebook": "Whitney.Gibson",
+      "instagram": "@Presley_Abshire"
+    },
+    "guarantors": [
+      {
+        "fullName": "Estevan Haley",
+        "phone": "487.896.9869 x097",
+        "email": "Johnathon13@gmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Elna Thiel",
+        "phone": "(920) 646-7012 x7880",
+        "email": "Jerald_Stroman36@yahoo.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "8dcb43c0-411f-4237-80f2-79b46555a70d",
+    "username": "Francis.Stoltenberg17",
+    "email": "Burdette86@hotmail.com",
+    "phone": "242.421.0348 x736",
+    "organization": "Lendstar",
+    "status": "Blacklisted",
+    "dateJoined": "Apr 8, 2024, 01:08 AM",
+    "accountBalance": "₦425581.07",
+    "savingsBalance": "₦433863.42",
+    "loanBalance": "₦215822.97",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "7090385684",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Alberta Mertz",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 0,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Self-Employed",
+      "sector": "Technology",
+      "experience": "9 years",
+      "monthlyIncome": "₦205045.31",
+      "loanRepayment": "₦75508"
+    },
+    "socials": {
+      "twitter": "@Tressa_Hintz",
+      "facebook": "Ines25",
+      "instagram": "@Dayne.DAmore1"
+    },
+    "guarantors": [
+      {
+        "fullName": "Zetta Graham",
+        "phone": "1-350-446-3420",
+        "email": "Lyla.Stracke@yahoo.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Tania Wehner",
+        "phone": "559-758-2897",
+        "email": "Chad57@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "8c3f8434-8df2-4379-9198-c82621389fb1",
+    "username": "Reuben74",
+    "email": "Ahmed.Cormier38@hotmail.com",
+    "phone": "1-372-729-9786 x169",
+    "organization": "Lendsqr",
+    "status": "Inactive",
+    "dateJoined": "Oct 9, 2024, 08:29 PM",
+    "accountBalance": "₦93661.75",
+    "savingsBalance": "₦307350.74",
+    "loanBalance": "₦325467.09",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "7526157164",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Devan Langosh",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 0,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Technology",
+      "experience": "4 years",
+      "monthlyIncome": "₦270672.53",
+      "loanRepayment": "₦78782"
+    },
+    "socials": {
+      "twitter": "@Kelli19",
+      "facebook": "Berry_Feeney41",
+      "instagram": "@Alayna_Block13"
+    },
+    "guarantors": [
+      {
+        "fullName": "Brisa Feest",
+        "phone": "729-547-9134 x51397",
+        "email": "Chase84@hotmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Deontae Goyette",
+        "phone": "1-294-406-4672 x9412",
+        "email": "Ida83@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "cd775496-bfd3-431f-933c-8a4c46096c0b",
+    "username": "Harrison_Krajcik78",
+    "email": "Genevieve_Wuckert3@hotmail.com",
+    "phone": "1-826-422-6116 x20748",
+    "organization": "Irorun",
+    "status": "Pending",
+    "dateJoined": "Dec 29, 2024, 08:05 AM",
+    "accountBalance": "₦118693.24",
+    "savingsBalance": "₦599978.21",
+    "loanBalance": "₦212287.97",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "4872163200",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Leo Conn",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 3,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Self-Employed",
+      "sector": "Technology",
+      "experience": "13 years",
+      "monthlyIncome": "₦481679.48",
+      "loanRepayment": "₦85700"
+    },
+    "socials": {
+      "twitter": "@Delmer_VonRueden34",
+      "facebook": "Devyn76",
+      "instagram": "@Quinten_Lowe"
+    },
+    "guarantors": [
+      {
+        "fullName": "Gianni Howe",
+        "phone": "470-565-2975 x52925",
+        "email": "Doyle89@hotmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Aisha Adams",
+        "phone": "864.796.0571 x03866",
+        "email": "Chet.Cormier76@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "465ab417-43b5-4eda-bf3d-1d474e452bee",
+    "username": "Columbus.Green",
+    "email": "Mckayla_Oberbrunner@yahoo.com",
+    "phone": "1-400-626-9773",
+    "organization": "Kredi",
+    "status": "Inactive",
+    "dateJoined": "Nov 26, 2024, 11:46 AM",
+    "accountBalance": "₦348376.01",
+    "savingsBalance": "₦607781.55",
+    "loanBalance": "₦308245.24",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "1908765894",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Bethel Christiansen",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 4,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Self-Employed",
+      "sector": "Health",
+      "experience": "5 years",
+      "monthlyIncome": "₦345738.15",
+      "loanRepayment": "₦63552"
+    },
+    "socials": {
+      "twitter": "@Nathaniel_Beatty",
+      "facebook": "Nicolette13",
+      "instagram": "@Ambrose68"
+    },
+    "guarantors": [
+      {
+        "fullName": "Hortense Senger",
+        "phone": "(607) 736-3962 x68399",
+        "email": "Kailee.Lockman@yahoo.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Fern Mante",
+        "phone": "(649) 489-8821 x95064",
+        "email": "Karson80@gmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "009630a8-c73e-4a7e-a426-293261f02e05",
+    "username": "Juana54",
+    "email": "Horace14@hotmail.com",
+    "phone": "1-278-290-2608",
+    "organization": "Irorun",
+    "status": "Blacklisted",
+    "dateJoined": "Apr 25, 2024, 11:54 AM",
+    "accountBalance": "₦472441.08",
+    "savingsBalance": "₦143946.44",
+    "loanBalance": "₦358754.74",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "8350427320",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Annabell Towne",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 0,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Self-Employed",
+      "sector": "Technology",
+      "experience": "7 years",
+      "monthlyIncome": "₦500454.78",
+      "loanRepayment": "₦97207"
+    },
+    "socials": {
+      "twitter": "@Einar_Pfeffer",
+      "facebook": "Sydnie.Sawayn",
+      "instagram": "@Lauretta_Tromp20"
+    },
+    "guarantors": [
+      {
+        "fullName": "Marcelle Moore",
+        "phone": "1-602-354-5384 x1029",
+        "email": "Wilmer.Rau80@hotmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Lindsey Parker",
+        "phone": "1-921-289-2628 x48068",
+        "email": "Carmelo.Wilderman@yahoo.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "490da956-d296-4a7b-bf33-35d4a15970d3",
+    "username": "Kiley.Von",
+    "email": "Eugenia.Yost@yahoo.com",
+    "phone": "1-353-584-9353 x881",
+    "organization": "Lendstar",
+    "status": "Blacklisted",
+    "dateJoined": "Jun 13, 2024, 08:24 AM",
+    "accountBalance": "₦402693.41",
+    "savingsBalance": "₦3895.60",
+    "loanBalance": "₦348661.47",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "9457945840",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Randy Bins",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 4,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Self-Employed",
+      "sector": "FinTech",
+      "experience": "4 years",
+      "monthlyIncome": "₦419070.66",
+      "loanRepayment": "₦72476"
+    },
+    "socials": {
+      "twitter": "@Idell56",
+      "facebook": "Roscoe_Orn",
+      "instagram": "@Adolfo_Kuphal"
+    },
+    "guarantors": [
+      {
+        "fullName": "Hillard Terry",
+        "phone": "230-289-0100 x41822",
+        "email": "Lance.Rath@gmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Rafael Farrell",
+        "phone": "1-565-374-9688 x1655",
+        "email": "Hazel_Abbott81@gmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "6f297af8-396b-4b79-88db-20086b8e073e",
+    "username": "Darrel.Sipes1",
+    "email": "Kamren68@yahoo.com",
+    "phone": "434.214.2071 x95011",
+    "organization": "Kredi",
+    "status": "Active",
+    "dateJoined": "Nov 10, 2024, 03:59 PM",
+    "accountBalance": "₦436181.77",
+    "savingsBalance": "₦399085.51",
+    "loanBalance": "₦250791.34",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "8593186435",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Kelsie Hoeger",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 5,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "3 years",
+      "monthlyIncome": "₦723970.59",
+      "loanRepayment": "₦13029"
+    },
+    "socials": {
+      "twitter": "@Alexanne.Rowe31",
+      "facebook": "Garry41",
+      "instagram": "@Luz.Gerlach5"
+    },
+    "guarantors": [
+      {
+        "fullName": "Althea Keeling",
+        "phone": "(243) 487-9680 x31703",
+        "email": "Willis94@hotmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Drew Moen-Bergnaum",
+        "phone": "903-388-5890 x0685",
+        "email": "Patrick.Hand23@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "8b06d8f6-ee10-4f6c-be50-aa7b6f6b7ef5",
+    "username": "Graham89",
+    "email": "Rebekah70@yahoo.com",
+    "phone": "857.811.7571",
+    "organization": "Lendstar",
+    "status": "Pending",
+    "dateJoined": "Jul 12, 2024, 10:48 PM",
+    "accountBalance": "₦445737.54",
+    "savingsBalance": "₦512935.08",
+    "loanBalance": "₦295737.14",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "9411635947",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Reymundo Thiel",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 4,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Employed",
+      "sector": "Technology",
+      "experience": "14 years",
+      "monthlyIncome": "₦767750.26",
+      "loanRepayment": "₦88940"
+    },
+    "socials": {
+      "twitter": "@Joany64",
+      "facebook": "Jonatan_Oberbrunner2",
+      "instagram": "@Hank.Jacobs86"
+    },
+    "guarantors": [
+      {
+        "fullName": "Joseph Cartwright",
+        "phone": "935-710-4138",
+        "email": "Kiera_Cassin@yahoo.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Lily Casper",
+        "phone": "825.848.5975 x0305",
+        "email": "Percy.Tromp69@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "3c556705-eb22-4d76-a273-d63d9b5f4465",
+    "username": "Elvera33",
+    "email": "Cynthia.Ebert@hotmail.com",
+    "phone": "1-647-898-2634 x987",
+    "organization": "Lendsqr",
+    "status": "Active",
+    "dateJoined": "Feb 25, 2024, 10:49 PM",
+    "accountBalance": "₦79680.50",
+    "savingsBalance": "₦496090.95",
+    "loanBalance": "₦68944.20",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "5501342439",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Myriam Baumbach",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 2,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Employed",
+      "sector": "Education",
+      "experience": "12 years",
+      "monthlyIncome": "₦799263.65",
+      "loanRepayment": "₦76986"
+    },
+    "socials": {
+      "twitter": "@Talon.Gulgowski",
+      "facebook": "Ryley_Nitzsche",
+      "instagram": "@Anika.Lowe-Morissette30"
+    },
+    "guarantors": [
+      {
+        "fullName": "Grant Crona",
+        "phone": "793.284.6031 x85226",
+        "email": "Shanel_Jacobs1@yahoo.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Jaylin Kuhn",
+        "phone": "914.741.0304 x7988",
+        "email": "Llewellyn_Yost@yahoo.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "25b4771c-55ae-45ab-8c85-219772db384d",
+    "username": "Cora_Champlin11",
+    "email": "Burley.Howe54@yahoo.com",
+    "phone": "276-654-2285 x792",
+    "organization": "Kredi",
+    "status": "Inactive",
+    "dateJoined": "Mar 25, 2024, 08:46 AM",
+    "accountBalance": "₦4653.59",
+    "savingsBalance": "₦338311.89",
+    "loanBalance": "₦221739.25",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "2521804231",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Keira Christiansen",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 2,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Education",
+      "experience": "10 years",
+      "monthlyIncome": "₦736414.35",
+      "loanRepayment": "₦37898"
+    },
+    "socials": {
+      "twitter": "@Dominique_Fritsch47",
+      "facebook": "Lorna96",
+      "instagram": "@Hunter_Connelly"
+    },
+    "guarantors": [
+      {
+        "fullName": "Jeffry Kilback",
+        "phone": "(826) 810-6459 x105",
+        "email": "Isac.Nader19@yahoo.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Ella Swaniawski",
+        "phone": "(993) 691-7921 x5379",
+        "email": "Willow_Sanford19@gmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "44fd8978-2821-46b4-a238-a7bb7ad525a8",
+    "username": "Damaris_Walker65",
+    "email": "Lindsey23@hotmail.com",
+    "phone": "979.263.3067",
+    "organization": "Lendsqr",
+    "status": "Inactive",
+    "dateJoined": "Oct 21, 2024, 09:34 AM",
+    "accountBalance": "₦233761.63",
+    "savingsBalance": "₦584888.62",
+    "loanBalance": "₦139445.72",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "8660700566",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Shirley Runolfsdottir",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 4,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Employed",
+      "sector": "Education",
+      "experience": "20 years",
+      "monthlyIncome": "₦895605.61",
+      "loanRepayment": "₦25580"
+    },
+    "socials": {
+      "twitter": "@Maryam_Walsh56",
+      "facebook": "Naomi.Mueller",
+      "instagram": "@Anita.Pfannerstill"
+    },
+    "guarantors": [
+      {
+        "fullName": "Uriah Greenholt",
+        "phone": "469-636-9342 x505",
+        "email": "Olaf_Lindgren@hotmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Kenna Mertz",
+        "phone": "1-474-202-6407 x2698",
+        "email": "Orville_Durgan@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "03319f63-a191-4507-81c0-201725b9d004",
+    "username": "Jace52",
+    "email": "Monica35@hotmail.com",
+    "phone": "321.554.6349 x98641",
+    "organization": "Lendstar",
+    "status": "Pending",
+    "dateJoined": "Aug 8, 2024, 10:33 AM",
+    "accountBalance": "₦234364.59",
+    "savingsBalance": "₦744435.89",
+    "loanBalance": "₦431664.19",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "0954739659",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Jamar Ryan",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 1,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Employed",
+      "sector": "Technology",
+      "experience": "7 years",
+      "monthlyIncome": "₦406976.82",
+      "loanRepayment": "₦19466"
+    },
+    "socials": {
+      "twitter": "@Lane_Jaskolski24",
+      "facebook": "Oren.Trantow79",
+      "instagram": "@Kari72"
+    },
+    "guarantors": [
+      {
+        "fullName": "Norbert Haley-Zulauf",
+        "phone": "698.666.6919",
+        "email": "David29@hotmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Nels Stiedemann",
+        "phone": "1-618-463-1202 x1518",
+        "email": "Abdullah_Weissnat57@gmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "e611c53b-874a-4376-b153-4d3320e7327f",
+    "username": "Camron_Beier",
+    "email": "Hallie8@hotmail.com",
+    "phone": "809.202.5046 x13401",
+    "organization": "Kredi",
+    "status": "Inactive",
+    "dateJoined": "Apr 25, 2024, 06:11 AM",
+    "accountBalance": "₦471989.77",
+    "savingsBalance": "₦714191.76",
+    "loanBalance": "₦373529.57",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "9065414484",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Anika Bernier",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 0,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Unemployed",
+      "sector": "Education",
+      "experience": "18 years",
+      "monthlyIncome": "₦844899.95",
+      "loanRepayment": "₦14017"
+    },
+    "socials": {
+      "twitter": "@Gerard.Sporer13",
+      "facebook": "Waylon_Jaskolski",
+      "instagram": "@Myra.Ward9"
+    },
+    "guarantors": [
+      {
+        "fullName": "Etha Rodriguez",
+        "phone": "(995) 594-2872 x37213",
+        "email": "Hugh99@gmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Carlee Armstrong",
+        "phone": "1-957-428-9833 x852",
+        "email": "Helen78@gmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "fc412028-47af-4844-bf26-96bb303e0793",
+    "username": "Keira0",
+    "email": "Wendell_Stanton11@gmail.com",
+    "phone": "304.858.3832 x469",
+    "organization": "Irorun",
+    "status": "Inactive",
+    "dateJoined": "Jul 9, 2024, 11:18 AM",
+    "accountBalance": "₦126994.11",
+    "savingsBalance": "₦411254.55",
+    "loanBalance": "₦117064.01",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "1683506883",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Lulu Hudson",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 3,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "16 years",
+      "monthlyIncome": "₦808713.26",
+      "loanRepayment": "₦33955"
+    },
+    "socials": {
+      "twitter": "@Macie65",
+      "facebook": "Christina0",
+      "instagram": "@Marshall72"
+    },
+    "guarantors": [
+      {
+        "fullName": "Alessandro Jenkins",
+        "phone": "301-910-4498 x983",
+        "email": "Maddison42@yahoo.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Francesca Fritsch",
+        "phone": "672-977-2765 x5301",
+        "email": "Jay.Hyatt@gmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "602e6a97-d6d2-4982-9723-c4b4d7734f7c",
+    "username": "Freda76",
+    "email": "Corrine_Lindgren@gmail.com",
+    "phone": "707.370.0322 x395",
+    "organization": "Kredi",
+    "status": "Active",
+    "dateJoined": "May 21, 2024, 06:53 PM",
+    "accountBalance": "₦431007.73",
+    "savingsBalance": "₦916076.02",
+    "loanBalance": "₦253190.17",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "8335393114",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Erick Fay",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 0,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Self-Employed",
+      "sector": "FinTech",
+      "experience": "1 years",
+      "monthlyIncome": "₦220107.12",
+      "loanRepayment": "₦30641"
+    },
+    "socials": {
+      "twitter": "@Misty.Grimes",
+      "facebook": "Ricky.Brekke8",
+      "instagram": "@Oral55"
+    },
+    "guarantors": [
+      {
+        "fullName": "Cleta Bosco",
+        "phone": "443-769-9186 x55668",
+        "email": "Alexys_Lindgren@gmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Kaci Boyle",
+        "phone": "(788) 345-3924 x09700",
+        "email": "Cindy8@hotmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "971b1a4a-149e-4cae-aebb-fe102a7da62c",
+    "username": "Newton63",
+    "email": "Graham_Lakin@yahoo.com",
+    "phone": "(705) 580-7888 x28640",
+    "organization": "Kredi",
+    "status": "Active",
+    "dateJoined": "Feb 24, 2024, 05:45 PM",
+    "accountBalance": "₦159308.00",
+    "savingsBalance": "₦230358.53",
+    "loanBalance": "₦229338.93",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "3541694432",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Merlin Aufderhar",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 5,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "19 years",
+      "monthlyIncome": "₦682855.49",
+      "loanRepayment": "₦65165"
+    },
+    "socials": {
+      "twitter": "@Jessika_Lind82",
+      "facebook": "Olen.Hammes",
+      "instagram": "@Myrtle_Bartell35"
+    },
+    "guarantors": [
+      {
+        "fullName": "Dominique Volkman",
+        "phone": "1-217-925-0985 x8484",
+        "email": "Scot0@hotmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Connie Lynch",
+        "phone": "1-893-201-5813 x805",
+        "email": "Marina_Olson@yahoo.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "77cddff8-94f6-437c-b746-4eb50cea8196",
+    "username": "Mallory.Schaden",
+    "email": "Faustino.Brown7@hotmail.com",
+    "phone": "(219) 846-4459 x42147",
+    "organization": "Kredi",
+    "status": "Blacklisted",
+    "dateJoined": "Sep 13, 2024, 07:32 PM",
+    "accountBalance": "₦200035.22",
+    "savingsBalance": "₦588742.05",
+    "loanBalance": "₦262363.63",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "6263085403",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Bartholome Tremblay",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 2,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Health",
+      "experience": "17 years",
+      "monthlyIncome": "₦570692.74",
+      "loanRepayment": "₦92794"
+    },
+    "socials": {
+      "twitter": "@Viola88",
+      "facebook": "Elwyn.Legros",
+      "instagram": "@Chasity94"
+    },
+    "guarantors": [
+      {
+        "fullName": "Abel Runte",
+        "phone": "(739) 599-0004 x102",
+        "email": "Wyatt41@yahoo.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Green Windler",
+        "phone": "468-302-5189 x414",
+        "email": "Hunter.Hodkiewicz@gmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "0de7a9d5-62d8-4dda-859b-4e90cffc7e12",
+    "username": "Ricardo60",
+    "email": "Fabiola35@gmail.com",
+    "phone": "220.468.2543 x55342",
+    "organization": "Irorun",
+    "status": "Pending",
+    "dateJoined": "Jul 29, 2024, 04:59 PM",
+    "accountBalance": "₦177742.71",
+    "savingsBalance": "₦355293.08",
+    "loanBalance": "₦353779.94",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "7809265931",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "John Mann",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 2,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "5 years",
+      "monthlyIncome": "₦751040.25",
+      "loanRepayment": "₦44276"
+    },
+    "socials": {
+      "twitter": "@Rosanna.Becker7",
+      "facebook": "Concepcion_Sipes",
+      "instagram": "@Norris_Weimann44"
+    },
+    "guarantors": [
+      {
+        "fullName": "Dakota Marks-Witting",
+        "phone": "781-757-8744 x4858",
+        "email": "Katrine.Gutmann85@yahoo.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Piper Runolfsdottir",
+        "phone": "611-814-4155",
+        "email": "Casimer_Altenwerth35@gmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "16099068-dd48-420e-af8b-04ad31b21912",
+    "username": "Torrance_Terry90",
+    "email": "Arthur85@yahoo.com",
+    "phone": "1-501-616-5220 x841",
+    "organization": "Irorun",
+    "status": "Active",
+    "dateJoined": "Dec 13, 2024, 04:31 AM",
+    "accountBalance": "₦391850.45",
+    "savingsBalance": "₦886628.42",
+    "loanBalance": "₦482988.11",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "0210791375",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Albert Goodwin",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 3,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Unemployed",
+      "sector": "FinTech",
+      "experience": "1 years",
+      "monthlyIncome": "₦362104.49",
+      "loanRepayment": "₦43586"
+    },
+    "socials": {
+      "twitter": "@Leola66",
+      "facebook": "Jermey31",
+      "instagram": "@Nicola_Connelly"
+    },
+    "guarantors": [
+      {
+        "fullName": "Roberta Kiehn",
+        "phone": "386-980-3645 x572",
+        "email": "Bryana_Frami@hotmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Serena Prohaska",
+        "phone": "1-925-407-9508 x8307",
+        "email": "Antonetta_Kilback@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "7747d7e2-dfeb-4b12-8b00-5709991a3834",
+    "username": "Phyllis.Quigley37",
+    "email": "Carmela94@gmail.com",
+    "phone": "621-345-3467",
+    "organization": "Kredi",
+    "status": "Inactive",
+    "dateJoined": "Jul 27, 2024, 01:57 PM",
+    "accountBalance": "₦225899.42",
+    "savingsBalance": "₦301861.37",
+    "loanBalance": "₦219566.03",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "3387853068",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Stanford Steuber",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 2,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Technology",
+      "experience": "13 years",
+      "monthlyIncome": "₦219231.13",
+      "loanRepayment": "₦45420"
+    },
+    "socials": {
+      "twitter": "@Katrine_Kiehn63",
+      "facebook": "Giovani.Crona",
+      "instagram": "@Christine_Hilll"
+    },
+    "guarantors": [
+      {
+        "fullName": "Darren Mayert",
+        "phone": "587-743-9271",
+        "email": "Derrick.Murazik57@hotmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Willy Kovacek",
+        "phone": "254.610.9990 x3268",
+        "email": "Golda.Strosin66@gmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "b5a4bd88-07f1-4125-ab52-45f43ae9e0c9",
+    "username": "Brendon60",
+    "email": "Hilma_Jaskolski@hotmail.com",
+    "phone": "(203) 661-3523",
+    "organization": "Lendsqr",
+    "status": "Inactive",
+    "dateJoined": "Jan 29, 2025, 08:11 PM",
+    "accountBalance": "₦225246.63",
+    "savingsBalance": "₦92178.27",
+    "loanBalance": "₦25035.32",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "0592705503",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Luisa Stehr",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 2,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Education",
+      "experience": "6 years",
+      "monthlyIncome": "₦983196.97",
+      "loanRepayment": "₦84288"
+    },
+    "socials": {
+      "twitter": "@Beryl68",
+      "facebook": "Ana35",
+      "instagram": "@Theo.Boyer"
+    },
+    "guarantors": [
+      {
+        "fullName": "Jerome Welch",
+        "phone": "1-914-975-9416 x835",
+        "email": "Eric_Connelly29@yahoo.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Georgiana Douglas",
+        "phone": "416.521.8731 x266",
+        "email": "Gwendolyn12@gmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "56876b34-fa23-4749-93ef-e701665e4351",
+    "username": "Shaina57",
+    "email": "Katheryn_Veum23@yahoo.com",
+    "phone": "(880) 222-4907 x076",
+    "organization": "Lendsqr",
+    "status": "Pending",
+    "dateJoined": "Feb 5, 2025, 11:54 PM",
+    "accountBalance": "₦120330.21",
+    "savingsBalance": "₦519121.51",
+    "loanBalance": "₦254314.45",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "0858949918",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Chris Kassulke",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 4,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Health",
+      "experience": "4 years",
+      "monthlyIncome": "₦651529.57",
+      "loanRepayment": "₦23551"
+    },
+    "socials": {
+      "twitter": "@Sydnie_Krajcik69",
+      "facebook": "Ottis.Ryan",
+      "instagram": "@Stephany_Medhurst"
+    },
+    "guarantors": [
+      {
+        "fullName": "Destiny Altenwerth",
+        "phone": "390-647-5834 x031",
+        "email": "Keshawn_Jenkins@hotmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Floyd Howe",
+        "phone": "682-817-3114 x41562",
+        "email": "Connie_Ortiz5@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "8121474c-4263-48c9-8844-b4df4b33d86f",
+    "username": "Daniella.Berge",
+    "email": "Petra.Weimann46@gmail.com",
+    "phone": "1-260-307-1968 x147",
+    "organization": "Kredi",
+    "status": "Active",
+    "dateJoined": "Dec 28, 2024, 10:48 PM",
+    "accountBalance": "₦181182.89",
+    "savingsBalance": "₦783373.80",
+    "loanBalance": "₦310978.09",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "4792781182",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Franco Bauch",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 5,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Unemployed",
+      "sector": "Education",
+      "experience": "16 years",
+      "monthlyIncome": "₦945630.60",
+      "loanRepayment": "₦99620"
+    },
+    "socials": {
+      "twitter": "@Brant.Yundt78",
+      "facebook": "Cyril17",
+      "instagram": "@Greyson21"
+    },
+    "guarantors": [
+      {
+        "fullName": "Ebony Willms",
+        "phone": "1-987-929-3638 x8579",
+        "email": "Danial41@yahoo.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Jana Monahan",
+        "phone": "(730) 854-7641 x0338",
+        "email": "Margaret_Reilly81@gmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "9c9bb1d3-6a11-49c8-99d9-f31e1d348228",
+    "username": "Eda29",
+    "email": "Edna_Mertz@gmail.com",
+    "phone": "(361) 996-5131 x3578",
+    "organization": "Lendstar",
+    "status": "Pending",
+    "dateJoined": "Mar 5, 2024, 10:43 PM",
+    "accountBalance": "₦422682.18",
+    "savingsBalance": "₦206973.18",
+    "loanBalance": "₦340329.97",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "7713882338",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Giovani O'Connell",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 1,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Self-Employed",
+      "sector": "Education",
+      "experience": "5 years",
+      "monthlyIncome": "₦103549.17",
+      "loanRepayment": "₦83956"
+    },
+    "socials": {
+      "twitter": "@Arlie.Hand-Boyle",
+      "facebook": "Selena.Dickens",
+      "instagram": "@Audra.Monahan"
+    },
+    "guarantors": [
+      {
+        "fullName": "Baby Grady",
+        "phone": "1-226-854-6792 x02703",
+        "email": "Thora.Shanahan@gmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Phyllis Kohler",
+        "phone": "1-498-315-6450",
+        "email": "Johnathon.Kulas@hotmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "75d5add8-e633-4f2e-9eab-965107c347f7",
+    "username": "Timmy.Jacobson",
+    "email": "Axel_Franey@yahoo.com",
+    "phone": "1-753-303-4373 x2825",
+    "organization": "Kredi",
+    "status": "Active",
+    "dateJoined": "Apr 22, 2024, 04:24 PM",
+    "accountBalance": "₦32812.13",
+    "savingsBalance": "₦714776.15",
+    "loanBalance": "₦132340.10",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "2998334052",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Hayley Wiza",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 0,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Employed",
+      "sector": "Technology",
+      "experience": "8 years",
+      "monthlyIncome": "₦807743.05",
+      "loanRepayment": "₦62582"
+    },
+    "socials": {
+      "twitter": "@Dolores_Donnelly41",
+      "facebook": "Arden_Harber",
+      "instagram": "@Marquise.Rau"
+    },
+    "guarantors": [
+      {
+        "fullName": "Domingo Howe",
+        "phone": "482-943-4550 x57301",
+        "email": "Ernesto.Will74@gmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Herminia Hauck",
+        "phone": "709-500-4733 x7859",
+        "email": "Jerry_Pouros@hotmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "ba3cf8ce-5af3-41db-8e46-a572bd98c71e",
+    "username": "Xander53",
+    "email": "Jaqueline.Cruickshank96@yahoo.com",
+    "phone": "(546) 343-3124 x2743",
+    "organization": "Kredi",
+    "status": "Inactive",
+    "dateJoined": "Aug 18, 2024, 08:41 AM",
+    "accountBalance": "₦292375.47",
+    "savingsBalance": "₦198425.32",
+    "loanBalance": "₦274569.70",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "0353098666",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Maiya Wolf",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 0,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Employed",
+      "sector": "Technology",
+      "experience": "17 years",
+      "monthlyIncome": "₦186775.55",
+      "loanRepayment": "₦61182"
+    },
+    "socials": {
+      "twitter": "@Tamia49",
+      "facebook": "Jacquelyn_Davis59",
+      "instagram": "@Roy91"
+    },
+    "guarantors": [
+      {
+        "fullName": "Augustus Schmeler",
+        "phone": "1-755-554-9098 x168",
+        "email": "Devyn_Schoen43@yahoo.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Kaylie Altenwerth",
+        "phone": "231-537-9567",
+        "email": "Kamron.Ernser24@gmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "a299b69f-95eb-4ecf-ae09-fe09c0b0500e",
+    "username": "Garrison.Veum17",
+    "email": "Dortha.Wilderman92@gmail.com",
+    "phone": "451.220.3856 x6880",
+    "organization": "Irorun",
+    "status": "Pending",
+    "dateJoined": "May 8, 2024, 08:45 PM",
+    "accountBalance": "₦385191.38",
+    "savingsBalance": "₦633909.35",
+    "loanBalance": "₦125298.53",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "9639380157",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Emerson Walker",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 0,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Unemployed",
+      "sector": "FinTech",
+      "experience": "6 years",
+      "monthlyIncome": "₦495620.85",
+      "loanRepayment": "₦15150"
+    },
+    "socials": {
+      "twitter": "@Karli3",
+      "facebook": "Santos.Labadie",
+      "instagram": "@Lily.Bode23"
+    },
+    "guarantors": [
+      {
+        "fullName": "Theodora Wunsch",
+        "phone": "(285) 588-5892 x98734",
+        "email": "Monroe80@gmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Dulce Leffler",
+        "phone": "276-205-1408 x6080",
+        "email": "Buddy_Gorczany-Lesch@hotmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "1c63aadb-f114-4418-b1c9-075563b0d40c",
+    "username": "Chesley.Bode",
+    "email": "Jake_Fisher@hotmail.com",
+    "phone": "509-336-4555 x740",
+    "organization": "Lendsqr",
+    "status": "Inactive",
+    "dateJoined": "Dec 11, 2024, 04:53 PM",
+    "accountBalance": "₦118044.97",
+    "savingsBalance": "₦709534.09",
+    "loanBalance": "₦94260.00",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "3327543915",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Kimberly Hackett",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 1,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "11 years",
+      "monthlyIncome": "₦919595.09",
+      "loanRepayment": "₦53502"
+    },
+    "socials": {
+      "twitter": "@Lily_Pacocha29",
+      "facebook": "Marquise_OKon96",
+      "instagram": "@Tad.Howell"
+    },
+    "guarantors": [
+      {
+        "fullName": "Alexis Feeney",
+        "phone": "657.655.2842 x386",
+        "email": "Colin_Braun29@yahoo.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Oceane Towne",
+        "phone": "811-935-7025 x06355",
+        "email": "Katarina44@gmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "9b863ce9-a093-4509-8a7a-1a7ef99283c8",
+    "username": "Mckenzie.Abernathy96",
+    "email": "Amya74@yahoo.com",
+    "phone": "351-483-8870 x7585",
+    "organization": "Lendstar",
+    "status": "Inactive",
+    "dateJoined": "Oct 28, 2024, 12:24 PM",
+    "accountBalance": "₦473625.18",
+    "savingsBalance": "₦412982.96",
+    "loanBalance": "₦114730.15",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "2025816087",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Hailie Kuvalis",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 1,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Employed",
+      "sector": "Health",
+      "experience": "14 years",
+      "monthlyIncome": "₦418790.33",
+      "loanRepayment": "₦90470"
+    },
+    "socials": {
+      "twitter": "@Johan_Schoen",
+      "facebook": "Merlin34",
+      "instagram": "@Rahul71"
+    },
+    "guarantors": [
+      {
+        "fullName": "Toby Douglas",
+        "phone": "1-742-224-7648 x376",
+        "email": "Magdalena_Terry@gmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Otha Rosenbaum",
+        "phone": "(853) 408-6507 x765",
+        "email": "Albertha_Walter43@gmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "b24de342-0441-4ac0-9b3b-6b200866ade3",
+    "username": "Jaquan_Rau",
+    "email": "Georgianna.Mertz73@yahoo.com",
+    "phone": "(902) 318-8557 x42189",
+    "organization": "Lendsqr",
+    "status": "Pending",
+    "dateJoined": "Jan 22, 2025, 01:22 PM",
+    "accountBalance": "₦349246.54",
+    "savingsBalance": "₦426812.99",
+    "loanBalance": "₦292616.12",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "6808205715",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Karson Ratke",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 3,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "2 years",
+      "monthlyIncome": "₦377559.46",
+      "loanRepayment": "₦58078"
+    },
+    "socials": {
+      "twitter": "@Velva_DuBuque",
+      "facebook": "Thaddeus_Hudson73",
+      "instagram": "@Laurine_Larkin15"
+    },
+    "guarantors": [
+      {
+        "fullName": "Tamia Hyatt",
+        "phone": "(337) 835-0720",
+        "email": "Joshuah.Effertz@yahoo.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Cora Ward",
+        "phone": "775-429-0299 x440",
+        "email": "Layla85@yahoo.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "0fdd45e4-cfb4-43ae-916e-a4923808563c",
+    "username": "Randi.Stehr43",
+    "email": "Valentin_Goldner54@hotmail.com",
+    "phone": "397.301.1581 x21065",
+    "organization": "Lendsqr",
+    "status": "Blacklisted",
+    "dateJoined": "Nov 23, 2024, 02:30 PM",
+    "accountBalance": "₦142041.61",
+    "savingsBalance": "₦95954.82",
+    "loanBalance": "₦122965.72",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "0447313088",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Roel Denesik",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 5,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Self-Employed",
+      "sector": "Education",
+      "experience": "20 years",
+      "monthlyIncome": "₦663605.77",
+      "loanRepayment": "₦72994"
+    },
+    "socials": {
+      "twitter": "@Kelli_Kutch69",
+      "facebook": "Micah_Berge19",
+      "instagram": "@Loraine61"
+    },
+    "guarantors": [
+      {
+        "fullName": "Nathanael Morar",
+        "phone": "(300) 278-6108 x398",
+        "email": "Winston.Cartwright87@gmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Loyal Yost",
+        "phone": "1-469-453-3083 x6084",
+        "email": "Katherine.Dach@hotmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "702f8716-8ac7-44ba-8c33-990b843a88b7",
+    "username": "Susana_Hagenes41",
+    "email": "Brennan91@hotmail.com",
+    "phone": "894-897-4193 x99648",
+    "organization": "Lendstar",
+    "status": "Blacklisted",
+    "dateJoined": "Oct 20, 2024, 07:17 AM",
+    "accountBalance": "₦230379.96",
+    "savingsBalance": "₦504934.85",
+    "loanBalance": "₦785.92",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "0599754544",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Ryann Brekke",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 0,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Self-Employed",
+      "sector": "Technology",
+      "experience": "11 years",
+      "monthlyIncome": "₦595890.13",
+      "loanRepayment": "₦48590"
+    },
+    "socials": {
+      "twitter": "@Tessie.Treutel46",
+      "facebook": "Marlee_Heller-Emmerich",
+      "instagram": "@Lester_Pfeffer"
+    },
+    "guarantors": [
+      {
+        "fullName": "Maria Krajcik",
+        "phone": "1-872-279-5026 x3459",
+        "email": "Lazaro.Huel75@gmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Ted Gottlieb",
+        "phone": "863-684-0285 x655",
+        "email": "Bernie_Rau24@yahoo.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "974993b1-630f-4c2d-8632-01175a1795d3",
+    "username": "Dean.Anderson",
+    "email": "Keshawn.Bailey@yahoo.com",
+    "phone": "855-773-6858 x90854",
+    "organization": "Kredi",
+    "status": "Active",
+    "dateJoined": "Mar 19, 2024, 05:02 AM",
+    "accountBalance": "₦90272.39",
+    "savingsBalance": "₦945547.92",
+    "loanBalance": "₦321182.49",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "4099153154",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Patsy Douglas-Harber",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 1,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Self-Employed",
+      "sector": "Education",
+      "experience": "2 years",
+      "monthlyIncome": "₦435996.74",
+      "loanRepayment": "₦71297"
+    },
+    "socials": {
+      "twitter": "@Rhiannon36",
+      "facebook": "Kenyon_Durgan93",
+      "instagram": "@Harmon.Wintheiser"
+    },
+    "guarantors": [
+      {
+        "fullName": "Vince Erdman",
+        "phone": "421-808-4562 x3353",
+        "email": "Aryanna.Wintheiser42@hotmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Reta Hansen",
+        "phone": "1-590-556-5180 x298",
+        "email": "Ahmed_Lebsack@gmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "ccf4f29f-bc38-4847-8b38-233cd08d895b",
+    "username": "Germaine68",
+    "email": "Laurine_Dickinson@gmail.com",
+    "phone": "1-984-600-2225 x818",
+    "organization": "Lendstar",
+    "status": "Blacklisted",
+    "dateJoined": "Mar 26, 2024, 08:23 PM",
+    "accountBalance": "₦314398.86",
+    "savingsBalance": "₦384530.51",
+    "loanBalance": "₦236858.44",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "5518575149",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Hollie Spinka",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 4,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Employed",
+      "sector": "Health",
+      "experience": "1 years",
+      "monthlyIncome": "₦525202.51",
+      "loanRepayment": "₦67510"
+    },
+    "socials": {
+      "twitter": "@Justice.Moen",
+      "facebook": "Tom_Heathcote64",
+      "instagram": "@Salvatore.Morissette50"
+    },
+    "guarantors": [
+      {
+        "fullName": "Bradly Howell",
+        "phone": "(732) 462-6792 x8150",
+        "email": "Nels6@gmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Cordie Sporer",
+        "phone": "1-246-990-3743 x707",
+        "email": "Kenya21@hotmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "e99c96ba-a63f-48e9-b7f8-003c9cbc5ba1",
+    "username": "Alanis85",
+    "email": "River.Doyle@yahoo.com",
+    "phone": "817.939.4275",
+    "organization": "Lendstar",
+    "status": "Inactive",
+    "dateJoined": "Oct 4, 2024, 09:08 PM",
+    "accountBalance": "₦254814.37",
+    "savingsBalance": "₦595498.78",
+    "loanBalance": "₦254625.82",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "9479781309",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Nolan Steuber",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 1,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Unemployed",
+      "sector": "Education",
+      "experience": "14 years",
+      "monthlyIncome": "₦760599.01",
+      "loanRepayment": "₦18295"
+    },
+    "socials": {
+      "twitter": "@Gabe_Jenkins",
+      "facebook": "Creola_Pollich37",
+      "instagram": "@Shakira.Bergstrom"
+    },
+    "guarantors": [
+      {
+        "fullName": "Myrtis Zulauf",
+        "phone": "(666) 724-8053",
+        "email": "Katelynn64@yahoo.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Ernest Doyle",
+        "phone": "1-322-705-6966 x7417",
+        "email": "Sandy_Farrell@hotmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "80b70b4d-cd68-44ee-b062-81c0786d1a4a",
+    "username": "Patience_Dickens5",
+    "email": "Cullen.Hartmann-McClure27@hotmail.com",
+    "phone": "966.872.1470 x3173",
+    "organization": "Lendsqr",
+    "status": "Blacklisted",
+    "dateJoined": "May 5, 2024, 05:00 PM",
+    "accountBalance": "₦439522.38",
+    "savingsBalance": "₦895878.53",
+    "loanBalance": "₦223083.54",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "2668991286",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Avis Jenkins",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 3,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Unemployed",
+      "sector": "Education",
+      "experience": "6 years",
+      "monthlyIncome": "₦430806.74",
+      "loanRepayment": "₦44221"
+    },
+    "socials": {
+      "twitter": "@Marisa44",
+      "facebook": "Adell_Abbott",
+      "instagram": "@Kaylee.Nicolas18"
+    },
+    "guarantors": [
+      {
+        "fullName": "Ismael Gerhold-Maggio",
+        "phone": "610-634-6856 x274",
+        "email": "Willa_Pfannerstill@yahoo.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Adonis Harber",
+        "phone": "1-855-432-1906 x05897",
+        "email": "Lonie_Jacobs54@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "1dbb2718-7195-4312-931e-060e87b6ba39",
+    "username": "Kathryne.Brakus",
+    "email": "Armand_Skiles13@hotmail.com",
+    "phone": "462-378-2212 x21789",
+    "organization": "Kredi",
+    "status": "Active",
+    "dateJoined": "Mar 5, 2024, 08:36 AM",
+    "accountBalance": "₦287812.25",
+    "savingsBalance": "₦36620.67",
+    "loanBalance": "₦190967.08",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "4309644697",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Isabelle Abbott",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 0,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Self-Employed",
+      "sector": "Education",
+      "experience": "13 years",
+      "monthlyIncome": "₦829649.11",
+      "loanRepayment": "₦16536"
+    },
+    "socials": {
+      "twitter": "@Kamille.Greenfelder",
+      "facebook": "Andy.Baumbach",
+      "instagram": "@Colleen71"
+    },
+    "guarantors": [
+      {
+        "fullName": "Fidel Rau",
+        "phone": "1-941-759-9797 x477",
+        "email": "Domenick52@hotmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Jessie Feil",
+        "phone": "1-921-774-6965 x2228",
+        "email": "Providenci_Schmeler61@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "2f1dcb1a-d809-4713-b9ff-74b475c46574",
+    "username": "Michale_Yundt60",
+    "email": "Clark.Stanton@gmail.com",
+    "phone": "503-914-0382 x904",
+    "organization": "Irorun",
+    "status": "Blacklisted",
+    "dateJoined": "Jul 16, 2024, 06:14 AM",
+    "accountBalance": "₦129820.48",
+    "savingsBalance": "₦988982.37",
+    "loanBalance": "₦135753.41",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "6765204824",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Deon Paucek",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 2,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "2 years",
+      "monthlyIncome": "₦301217.30",
+      "loanRepayment": "₦22923"
+    },
+    "socials": {
+      "twitter": "@Marcel.Koepp-Kling",
+      "facebook": "Jayce28",
+      "instagram": "@Catharine.Keeling52"
+    },
+    "guarantors": [
+      {
+        "fullName": "Dejuan Gottlieb",
+        "phone": "725.564.4415",
+        "email": "Bill3@yahoo.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Maiya Hills",
+        "phone": "(633) 478-5430 x59698",
+        "email": "Jairo.Weissnat@gmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "a6338aca-a6f3-45a8-acf1-c21cafedb2e2",
+    "username": "Joanie2",
+    "email": "Verner94@hotmail.com",
+    "phone": "1-900-948-6886 x3381",
+    "organization": "Lendsqr",
+    "status": "Blacklisted",
+    "dateJoined": "Feb 5, 2025, 05:53 AM",
+    "accountBalance": "₦369100.15",
+    "savingsBalance": "₦403855.77",
+    "loanBalance": "₦162449.58",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "4432431119",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Bobby Tremblay",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 5,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "11 years",
+      "monthlyIncome": "₦526585.51",
+      "loanRepayment": "₦72356"
+    },
+    "socials": {
+      "twitter": "@Jermain_Baumbach9",
+      "facebook": "Kaya_Ferry",
+      "instagram": "@Carroll5"
+    },
+    "guarantors": [
+      {
+        "fullName": "Nedra Ankunding",
+        "phone": "230-286-3311 x15027",
+        "email": "Kyler57@gmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Jacynthe Cummerata",
+        "phone": "1-438-331-9753",
+        "email": "Lavern.Roob@hotmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "c4b682d0-12d9-4357-bed5-a0663cfaa3d4",
+    "username": "Malika85",
+    "email": "Oma.Hoeger51@hotmail.com",
+    "phone": "521.984.4404",
+    "organization": "Lendstar",
+    "status": "Inactive",
+    "dateJoined": "Mar 8, 2024, 07:32 AM",
+    "accountBalance": "₦496583.50",
+    "savingsBalance": "₦875969.98",
+    "loanBalance": "₦409067.49",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "7655376081",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Chet Kiehn-McDermott",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 5,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "FinTech",
+      "experience": "14 years",
+      "monthlyIncome": "₦632043.96",
+      "loanRepayment": "₦95174"
+    },
+    "socials": {
+      "twitter": "@Cleora_Oberbrunner-Stanton72",
+      "facebook": "Garrett_Kuphal33",
+      "instagram": "@Arne.Okuneva47"
+    },
+    "guarantors": [
+      {
+        "fullName": "Lucile Mills",
+        "phone": "560-834-3526 x631",
+        "email": "Tommie23@yahoo.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Aliya Kilback",
+        "phone": "1-273-363-8529 x58961",
+        "email": "Katheryn_Kuvalis@gmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "f529844a-6f7b-4b7f-bd30-fb02255fb0b2",
+    "username": "Madonna47",
+    "email": "Della.Daniel@gmail.com",
+    "phone": "490.231.1788 x3061",
+    "organization": "Lendstar",
+    "status": "Blacklisted",
+    "dateJoined": "Oct 6, 2024, 02:15 AM",
+    "accountBalance": "₦53059.34",
+    "savingsBalance": "₦808813.51",
+    "loanBalance": "₦256206.98",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "4829225064",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Clark Kautzer",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 3,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Unemployed",
+      "sector": "Education",
+      "experience": "11 years",
+      "monthlyIncome": "₦468377.11",
+      "loanRepayment": "₦17298"
+    },
+    "socials": {
+      "twitter": "@Hermina.Emmerich75",
+      "facebook": "Janick_Ernser",
+      "instagram": "@Clint0"
+    },
+    "guarantors": [
+      {
+        "fullName": "Geovanny Blanda",
+        "phone": "1-283-231-8246 x691",
+        "email": "Araceli.Kessler@yahoo.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Jeffrey Jaskolski",
+        "phone": "284.456.6319 x16686",
+        "email": "Wendy.Abshire46@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "1c7f9d86-fd3c-49e0-b053-a796f892d20f",
+    "username": "Albert65",
+    "email": "Eve_Doyle@hotmail.com",
+    "phone": "(375) 597-2047 x27067",
+    "organization": "Kredi",
+    "status": "Pending",
+    "dateJoined": "Jul 29, 2024, 12:25 AM",
+    "accountBalance": "₦281750.42",
+    "savingsBalance": "₦842784.50",
+    "loanBalance": "₦113119.38",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "2886376737",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Wilhelm Hodkiewicz",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 4,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Education",
+      "experience": "6 years",
+      "monthlyIncome": "₦536852.59",
+      "loanRepayment": "₦18290"
+    },
+    "socials": {
+      "twitter": "@Scot42",
+      "facebook": "Naomie.Schowalter",
+      "instagram": "@Kay.DuBuque"
+    },
+    "guarantors": [
+      {
+        "fullName": "Lamont Doyle",
+        "phone": "(373) 655-7271 x905",
+        "email": "Claudie.Mayert@yahoo.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Garfield Wunsch",
+        "phone": "350-511-2715 x61846",
+        "email": "Ronny_Medhurst@hotmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "78bf921a-6c61-404a-84cb-35f74cd4d39d",
+    "username": "Sallie_Daniel51",
+    "email": "Bella35@yahoo.com",
+    "phone": "578-369-5119 x81534",
+    "organization": "Lendstar",
+    "status": "Active",
+    "dateJoined": "Jan 20, 2025, 11:00 AM",
+    "accountBalance": "₦15591.51",
+    "savingsBalance": "₦892119.59",
+    "loanBalance": "₦222819.41",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "5722056969",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Willy Rodriguez",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 3,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Education",
+      "experience": "12 years",
+      "monthlyIncome": "₦658603.40",
+      "loanRepayment": "₦61222"
+    },
+    "socials": {
+      "twitter": "@Dino_Kovacek50",
+      "facebook": "Shaylee50",
+      "instagram": "@Millie_Thompson"
+    },
+    "guarantors": [
+      {
+        "fullName": "Orland Renner",
+        "phone": "(343) 919-4131",
+        "email": "Stephan18@gmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Terence Toy",
+        "phone": "731.234.0026 x54411",
+        "email": "Alf_Kihn50@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "4770a176-8281-4c88-b145-ca8d1807ca84",
+    "username": "Sandrine.Von",
+    "email": "Cade99@yahoo.com",
+    "phone": "(850) 728-7211 x32859",
+    "organization": "Irorun",
+    "status": "Pending",
+    "dateJoined": "Apr 29, 2024, 08:05 PM",
+    "accountBalance": "₦228332.28",
+    "savingsBalance": "₦398975.19",
+    "loanBalance": "₦311707.34",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "9359943820",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Della Schamberger",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 5,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Employed",
+      "sector": "Health",
+      "experience": "18 years",
+      "monthlyIncome": "₦785077.00",
+      "loanRepayment": "₦39598"
+    },
+    "socials": {
+      "twitter": "@Alfredo.Kirlin",
+      "facebook": "Camylle_Bailey91",
+      "instagram": "@Nicolas.Kris34"
+    },
+    "guarantors": [
+      {
+        "fullName": "Donny Abernathy",
+        "phone": "839-613-3171 x0493",
+        "email": "Marion.Streich84@hotmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Elton Schmeler",
+        "phone": "(858) 621-4221 x7527",
+        "email": "Sylvia_Heaney34@gmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "5f61b25c-fa9e-4393-909a-c0fb0687f7ba",
+    "username": "Jared56",
+    "email": "Maybelle_Block4@hotmail.com",
+    "phone": "(421) 923-3870 x66097",
+    "organization": "Lendsqr",
+    "status": "Inactive",
+    "dateJoined": "Apr 24, 2024, 10:30 AM",
+    "accountBalance": "₦181870.87",
+    "savingsBalance": "₦310363.61",
+    "loanBalance": "₦126427.56",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "3024164440",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Erling Quigley",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 5,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Self-Employed",
+      "sector": "Health",
+      "experience": "17 years",
+      "monthlyIncome": "₦851645.22",
+      "loanRepayment": "₦45984"
+    },
+    "socials": {
+      "twitter": "@Tristian33",
+      "facebook": "Timmy.Grant",
+      "instagram": "@Vivian21"
+    },
+    "guarantors": [
+      {
+        "fullName": "Dana Ratke-Klein",
+        "phone": "(913) 981-1643 x88931",
+        "email": "Aileen9@hotmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Deontae O'Hara",
+        "phone": "(917) 546-5541 x010",
+        "email": "Luigi60@gmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "f77811be-61b0-452a-af90-4ea826a83b50",
+    "username": "Damien.Maggio",
+    "email": "Kyleigh_Zieme@hotmail.com",
+    "phone": "987.657.7655 x95782",
+    "organization": "Lendstar",
+    "status": "Pending",
+    "dateJoined": "Dec 6, 2024, 08:35 PM",
+    "accountBalance": "₦114812.97",
+    "savingsBalance": "₦325120.84",
+    "loanBalance": "₦8879.43",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "2787208278",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Pearline Cummerata",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 3,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Education",
+      "experience": "9 years",
+      "monthlyIncome": "₦490755.43",
+      "loanRepayment": "₦78562"
+    },
+    "socials": {
+      "twitter": "@Connor_Leffler",
+      "facebook": "Judson.White79",
+      "instagram": "@Imogene_Ledner91"
+    },
+    "guarantors": [
+      {
+        "fullName": "Jay Simonis",
+        "phone": "942-754-3173 x4017",
+        "email": "Sean93@yahoo.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Virginia Raynor",
+        "phone": "(587) 395-7199",
+        "email": "Keith.Herzog18@hotmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "4f3f08dd-2549-4d9a-b6aa-cfb6031194ec",
+    "username": "Emiliano_Lakin70",
+    "email": "Omer_Steuber85@hotmail.com",
+    "phone": "1-741-293-9323 x518",
+    "organization": "Kredi",
+    "status": "Pending",
+    "dateJoined": "Dec 22, 2024, 10:59 AM",
+    "accountBalance": "₦62224.77",
+    "savingsBalance": "₦942202.34",
+    "loanBalance": "₦455129.81",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "7142022966",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Malinda Roob",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 0,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "2 years",
+      "monthlyIncome": "₦982900.61",
+      "loanRepayment": "₦56014"
+    },
+    "socials": {
+      "twitter": "@Retha.Dach6",
+      "facebook": "Leopoldo_Borer-Schuppe45",
+      "instagram": "@Sharon.Koss"
+    },
+    "guarantors": [
+      {
+        "fullName": "Alexzander Waters",
+        "phone": "1-785-835-1868",
+        "email": "Brannon_Mertz@gmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Valentine Nitzsche",
+        "phone": "763.337.5236 x1730",
+        "email": "Alysha70@yahoo.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "3371b33c-ca1d-4692-a1b2-227edf99067f",
+    "username": "Crystel_Roberts36",
+    "email": "Houston.Fisher@gmail.com",
+    "phone": "423-285-6486 x157",
+    "organization": "Lendstar",
+    "status": "Blacklisted",
+    "dateJoined": "Dec 27, 2024, 06:07 AM",
+    "accountBalance": "₦183543.54",
+    "savingsBalance": "₦924896.22",
+    "loanBalance": "₦288652.26",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "3232019606",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Emelie Vandervort",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 3,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Unemployed",
+      "sector": "FinTech",
+      "experience": "17 years",
+      "monthlyIncome": "₦663641.40",
+      "loanRepayment": "₦31107"
+    },
+    "socials": {
+      "twitter": "@Rene_Kautzer9",
+      "facebook": "Lizzie.Murazik95",
+      "instagram": "@Rae5"
+    },
+    "guarantors": [
+      {
+        "fullName": "Randall Schuppe",
+        "phone": "1-416-434-6722 x367",
+        "email": "Rodger64@gmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Weldon Kreiger",
+        "phone": "(231) 209-1445 x732",
+        "email": "Dedric_Jacobs@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "7b31fed0-6508-4f0c-bd76-7d8bf86b80bf",
+    "username": "Delilah67",
+    "email": "Parker59@gmail.com",
+    "phone": "834.661.6297 x50026",
+    "organization": "Kredi",
+    "status": "Blacklisted",
+    "dateJoined": "Feb 23, 2024, 01:47 PM",
+    "accountBalance": "₦323144.15",
+    "savingsBalance": "₦619043.05",
+    "loanBalance": "₦71025.67",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "8008364719",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Maurice Ruecker",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 1,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Education",
+      "experience": "10 years",
+      "monthlyIncome": "₦766134.16",
+      "loanRepayment": "₦84314"
+    },
+    "socials": {
+      "twitter": "@Brian.Kovacek",
+      "facebook": "Jarrell.Dickinson",
+      "instagram": "@Isom.Russel46"
+    },
+    "guarantors": [
+      {
+        "fullName": "Gerda Grimes",
+        "phone": "1-872-247-3630 x59290",
+        "email": "Jermain37@yahoo.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Kaylee Cronin",
+        "phone": "(738) 365-7414 x420",
+        "email": "Hilma_Green@yahoo.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "f2d180fe-87b5-4e06-b4b8-cf0246979e5c",
+    "username": "Neha.Zieme6",
+    "email": "Max_Robel90@hotmail.com",
+    "phone": "841.708.1323 x38618",
+    "organization": "Irorun",
+    "status": "Pending",
+    "dateJoined": "Oct 7, 2024, 04:35 AM",
+    "accountBalance": "₦277253.64",
+    "savingsBalance": "₦331328.05",
+    "loanBalance": "₦333679.02",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "6108498696",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Evalyn Bechtelar",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 3,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Self-Employed",
+      "sector": "Education",
+      "experience": "8 years",
+      "monthlyIncome": "₦792484.01",
+      "loanRepayment": "₦78993"
+    },
+    "socials": {
+      "twitter": "@Idella.Sanford22",
+      "facebook": "Jaren.Koch88",
+      "instagram": "@Daphnee_Abbott"
+    },
+    "guarantors": [
+      {
+        "fullName": "Hoyt Hane",
+        "phone": "(539) 660-3326 x96563",
+        "email": "Aiyana_Rohan41@hotmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Camila Romaguera",
+        "phone": "1-282-321-0251 x6530",
+        "email": "Myriam87@gmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "a4ca19f1-6475-4e37-b04a-5c7eef0b6854",
+    "username": "Destiny.Hermann40",
+    "email": "Lexie_King@gmail.com",
+    "phone": "936.744.9331 x048",
+    "organization": "Lendstar",
+    "status": "Inactive",
+    "dateJoined": "Apr 11, 2024, 05:08 AM",
+    "accountBalance": "₦8202.61",
+    "savingsBalance": "₦712067.54",
+    "loanBalance": "₦95392.63",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "9181117756",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Emmitt Abernathy",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 3,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Employed",
+      "sector": "Technology",
+      "experience": "16 years",
+      "monthlyIncome": "₦280994.81",
+      "loanRepayment": "₦58197"
+    },
+    "socials": {
+      "twitter": "@Tyshawn.Daniel",
+      "facebook": "Jessica_Little",
+      "instagram": "@Abbey8"
+    },
+    "guarantors": [
+      {
+        "fullName": "Vaughn Fritsch",
+        "phone": "886-536-3576 x0183",
+        "email": "Adrien_Borer@gmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Mina Dooley",
+        "phone": "(507) 218-5815 x5212",
+        "email": "Myah_Emmerich@hotmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "3bc643a8-84f2-4b55-87db-1daa53c170af",
+    "username": "Doyle_Corwin",
+    "email": "Ismael_Donnelly85@gmail.com",
+    "phone": "232-598-6742",
+    "organization": "Kredi",
+    "status": "Active",
+    "dateJoined": "Jun 29, 2024, 08:22 AM",
+    "accountBalance": "₦108626.11",
+    "savingsBalance": "₦797502.20",
+    "loanBalance": "₦445762.75",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "4568790045",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Arjun Bernier",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 0,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Self-Employed",
+      "sector": "Education",
+      "experience": "10 years",
+      "monthlyIncome": "₦716138.43",
+      "loanRepayment": "₦74291"
+    },
+    "socials": {
+      "twitter": "@Sid_Corkery42",
+      "facebook": "Yoshiko_White-Mann48",
+      "instagram": "@Geo_Carter6"
+    },
+    "guarantors": [
+      {
+        "fullName": "Reyna Stehr",
+        "phone": "(689) 844-6385",
+        "email": "Maddison19@yahoo.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Rodolfo Ebert",
+        "phone": "(691) 913-5423 x8423",
+        "email": "Sadye_Grant14@gmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "feab4660-9d68-403f-9efe-0149f6b8c0d0",
+    "username": "Hugh.Wehner",
+    "email": "Freida_Koepp@gmail.com",
+    "phone": "819.881.6181 x50040",
+    "organization": "Irorun",
+    "status": "Pending",
+    "dateJoined": "Oct 19, 2024, 05:42 AM",
+    "accountBalance": "₦274614.23",
+    "savingsBalance": "₦768076.65",
+    "loanBalance": "₦136361.40",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "8791031450",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Brooke Murphy",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 4,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Self-Employed",
+      "sector": "FinTech",
+      "experience": "11 years",
+      "monthlyIncome": "₦612001.80",
+      "loanRepayment": "₦52644"
+    },
+    "socials": {
+      "twitter": "@Diana_Stokes27",
+      "facebook": "Ahmad_Douglas",
+      "instagram": "@Tina.Wolf"
+    },
+    "guarantors": [
+      {
+        "fullName": "Ahmad Pollich",
+        "phone": "431-229-6678 x60156",
+        "email": "Xzavier.Gutmann@hotmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Robyn Wilkinson",
+        "phone": "1-567-840-7182 x454",
+        "email": "Destini_Barton-Nikolaus16@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "e4af0c3a-44f0-4072-8959-f4542bb25216",
+    "username": "Juvenal_Wisozk-Schoen73",
+    "email": "Lonie0@hotmail.com",
+    "phone": "996-687-0470 x78168",
+    "organization": "Lendsqr",
+    "status": "Blacklisted",
+    "dateJoined": "Oct 19, 2024, 03:23 PM",
+    "accountBalance": "₦355008.96",
+    "savingsBalance": "₦955178.61",
+    "loanBalance": "₦353101.67",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "8144061792",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Micah Ortiz",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 4,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "13 years",
+      "monthlyIncome": "₦501961.40",
+      "loanRepayment": "₦56378"
+    },
+    "socials": {
+      "twitter": "@Esta_Bode28",
+      "facebook": "Melvin_Tromp",
+      "instagram": "@Fern_Friesen53"
+    },
+    "guarantors": [
+      {
+        "fullName": "Estel Leannon",
+        "phone": "787.758.6106 x27808",
+        "email": "Keaton_Kovacek@hotmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Linwood Hammes",
+        "phone": "(966) 402-6113 x894",
+        "email": "Vita.Wolf@gmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "82d77179-04fa-4633-acf4-831c32e0dcf1",
+    "username": "Era.Schmitt",
+    "email": "Aaron_Walsh@yahoo.com",
+    "phone": "1-206-402-7207 x7708",
+    "organization": "Lendstar",
+    "status": "Inactive",
+    "dateJoined": "Sep 7, 2024, 11:04 AM",
+    "accountBalance": "₦461995.62",
+    "savingsBalance": "₦469942.92",
+    "loanBalance": "₦49530.81",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "9138717571",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Brook Schinner",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 2,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Employed",
+      "sector": "Technology",
+      "experience": "4 years",
+      "monthlyIncome": "₦680525.65",
+      "loanRepayment": "₦24353"
+    },
+    "socials": {
+      "twitter": "@Adonis_Kshlerin",
+      "facebook": "Bulah.Collier79",
+      "instagram": "@Braxton.Batz89"
+    },
+    "guarantors": [
+      {
+        "fullName": "Maxie Kiehn",
+        "phone": "1-350-992-6728 x83027",
+        "email": "Pierre77@yahoo.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Izaiah Boehm",
+        "phone": "311.254.9110 x08166",
+        "email": "Dewayne.Little-Pollich@yahoo.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "eb036710-dc3c-4391-9a35-a90863e9ab38",
+    "username": "Audreanne.Nitzsche89",
+    "email": "Rollin_Hilll57@gmail.com",
+    "phone": "585.441.1065 x383",
+    "organization": "Lendstar",
+    "status": "Pending",
+    "dateJoined": "Oct 17, 2024, 03:51 AM",
+    "accountBalance": "₦78938.61",
+    "savingsBalance": "₦692366.05",
+    "loanBalance": "₦296821.05",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "5737978637",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Floy Carter",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 5,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "2 years",
+      "monthlyIncome": "₦765384.30",
+      "loanRepayment": "₦72987"
+    },
+    "socials": {
+      "twitter": "@Madeline.Erdman",
+      "facebook": "Fay.Satterfield",
+      "instagram": "@Domenico_Dooley96"
+    },
+    "guarantors": [
+      {
+        "fullName": "Coleman Kuhic",
+        "phone": "(339) 407-3521 x624",
+        "email": "Marian.Paucek62@gmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "April Williamson",
+        "phone": "(975) 603-7439",
+        "email": "Gabe.Kreiger@gmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "724992a3-0226-4bee-9788-17babfbdd1d2",
+    "username": "Jacinthe_Strosin83",
+    "email": "Jonatan.Kub@gmail.com",
+    "phone": "1-461-546-4201 x26930",
+    "organization": "Irorun",
+    "status": "Pending",
+    "dateJoined": "Sep 15, 2024, 02:15 AM",
+    "accountBalance": "₦233201.20",
+    "savingsBalance": "₦489185.22",
+    "loanBalance": "₦286495.60",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "7529114777",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Cortney Franecki",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 0,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Employed",
+      "sector": "FinTech",
+      "experience": "11 years",
+      "monthlyIncome": "₦749467.05",
+      "loanRepayment": "₦31985"
+    },
+    "socials": {
+      "twitter": "@Alvena.Brekke",
+      "facebook": "Titus_Ruecker",
+      "instagram": "@Pat.Bergstrom"
+    },
+    "guarantors": [
+      {
+        "fullName": "Gregory Swaniawski",
+        "phone": "(669) 381-4388 x3283",
+        "email": "Davin_Frami59@gmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Chesley Osinski",
+        "phone": "1-725-721-2895 x49718",
+        "email": "Shaylee.Hudson@gmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "a85dfe2d-5eb0-4875-ba5e-4f042d0399ab",
+    "username": "Eugene.Littel0",
+    "email": "Boris.Bins2@gmail.com",
+    "phone": "540-404-4627 x312",
+    "organization": "Irorun",
+    "status": "Active",
+    "dateJoined": "Mar 21, 2024, 11:16 PM",
+    "accountBalance": "₦14655.55",
+    "savingsBalance": "₦760235.25",
+    "loanBalance": "₦79314.06",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "9780472611",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Dora Quigley",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 3,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "20 years",
+      "monthlyIncome": "₦946404.19",
+      "loanRepayment": "₦75038"
+    },
+    "socials": {
+      "twitter": "@Frida25",
+      "facebook": "Jeanne.Marquardt63",
+      "instagram": "@Laura29"
+    },
+    "guarantors": [
+      {
+        "fullName": "Dudley Heaney",
+        "phone": "885.267.2391 x8759",
+        "email": "Antonetta_Hackett@gmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Laney Langosh",
+        "phone": "780.588.8028",
+        "email": "Norbert_Satterfield5@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "98a348bd-d815-4abf-a79e-cf0de5068320",
+    "username": "Ernest97",
+    "email": "Piper_Schroeder28@hotmail.com",
+    "phone": "391-616-0218 x4227",
+    "organization": "Lendstar",
+    "status": "Active",
+    "dateJoined": "Mar 5, 2024, 09:14 PM",
+    "accountBalance": "₦486223.24",
+    "savingsBalance": "₦245288.30",
+    "loanBalance": "₦320247.03",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "5730237226",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Odessa Price",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 4,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Self-Employed",
+      "sector": "Health",
+      "experience": "14 years",
+      "monthlyIncome": "₦592353.60",
+      "loanRepayment": "₦33790"
+    },
+    "socials": {
+      "twitter": "@Elwyn76",
+      "facebook": "Zula.Donnelly60",
+      "instagram": "@Esperanza.Rodriguez"
+    },
+    "guarantors": [
+      {
+        "fullName": "Friedrich Thiel",
+        "phone": "602-752-4191 x4471",
+        "email": "Lia74@gmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Loyce Bartoletti",
+        "phone": "(594) 577-9551 x6017",
+        "email": "Sedrick_Hahn@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "1103b56d-3487-4d02-adea-60ae101e764e",
+    "username": "Arnaldo44",
+    "email": "Anahi61@hotmail.com",
+    "phone": "1-439-382-8729 x380",
+    "organization": "Lendstar",
+    "status": "Pending",
+    "dateJoined": "Jun 11, 2024, 05:14 PM",
+    "accountBalance": "₦389669.03",
+    "savingsBalance": "₦724044.25",
+    "loanBalance": "₦53672.70",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "7126782745",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Jules Ullrich",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 3,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Self-Employed",
+      "sector": "Technology",
+      "experience": "17 years",
+      "monthlyIncome": "₦421470.32",
+      "loanRepayment": "₦29005"
+    },
+    "socials": {
+      "twitter": "@Skye.Carroll",
+      "facebook": "Estefania92",
+      "instagram": "@Emmalee_Hahn29"
+    },
+    "guarantors": [
+      {
+        "fullName": "Roderick Adams",
+        "phone": "1-960-972-4589 x2683",
+        "email": "Fritz.Kuphal85@gmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Maximilian Keeling",
+        "phone": "210.730.0919 x2955",
+        "email": "Carmine_Kohler31@gmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "e52d7412-1d49-4821-905d-9f4405c9febe",
+    "username": "Brody.Berge1",
+    "email": "Chelsey10@gmail.com",
+    "phone": "(960) 692-2966",
+    "organization": "Lendsqr",
+    "status": "Pending",
+    "dateJoined": "Sep 14, 2024, 02:19 AM",
+    "accountBalance": "₦486222.54",
+    "savingsBalance": "₦144169.80",
+    "loanBalance": "₦13891.06",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "3275277788",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Jackie Jacobson",
+      "gender": "Male",
+      "maritalStatus": "Divorced",
+      "children": 0,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Employed",
+      "sector": "Technology",
+      "experience": "10 years",
+      "monthlyIncome": "₦665046.23",
+      "loanRepayment": "₦31498"
+    },
+    "socials": {
+      "twitter": "@Lizeth3",
+      "facebook": "Dexter_Kihn",
+      "instagram": "@Conor_OConnell"
+    },
+    "guarantors": [
+      {
+        "fullName": "Ellen Conn",
+        "phone": "553.227.6147 x1165",
+        "email": "Martina_Hickle@hotmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Jonatan Jenkins",
+        "phone": "238.984.9125 x7958",
+        "email": "Breanna_Hand@gmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "ee4626fc-05b9-4206-bb82-c3fb8f809774",
+    "username": "Liliane_Beatty",
+    "email": "Marcelino77@gmail.com",
+    "phone": "(402) 685-3609 x994",
+    "organization": "Irorun",
+    "status": "Blacklisted",
+    "dateJoined": "Dec 21, 2024, 02:55 AM",
+    "accountBalance": "₦355714.92",
+    "savingsBalance": "₦809008.82",
+    "loanBalance": "₦274749.34",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "5460436074",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Gladys Abshire",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 4,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "Diploma",
+      "status": "Unemployed",
+      "sector": "Education",
+      "experience": "17 years",
+      "monthlyIncome": "₦498373.94",
+      "loanRepayment": "₦82858"
+    },
+    "socials": {
+      "twitter": "@Jordyn_Jenkins72",
+      "facebook": "Rubie.Pacocha47",
+      "instagram": "@Bradley_Schowalter11"
+    },
+    "guarantors": [
+      {
+        "fullName": "Junior Schinner",
+        "phone": "(748) 831-2867 x14018",
+        "email": "Dell.Weber@hotmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Javier Quitzon",
+        "phone": "763.623.3636 x0575",
+        "email": "Baby.OHara15@gmail.com",
+        "relationship": "Uncle"
+      }
+    ]
+  },
+  {
+    "userId": "82237260-9ed7-4239-8b36-60a9407b17c8",
+    "username": "Tianna80",
+    "email": "Lauriane37@gmail.com",
+    "phone": "1-758-408-0026 x408",
+    "organization": "Irorun",
+    "status": "Blacklisted",
+    "dateJoined": "Oct 4, 2024, 11:40 AM",
+    "accountBalance": "₦388597.85",
+    "savingsBalance": "₦871460.60",
+    "loanBalance": "₦194258.06",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "9297340241",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Lysanne Brown",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 4,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Education",
+      "experience": "12 years",
+      "monthlyIncome": "₦794061.11",
+      "loanRepayment": "₦73581"
+    },
+    "socials": {
+      "twitter": "@Shawn.Runolfsson",
+      "facebook": "Rodolfo.Bartoletti6",
+      "instagram": "@Trudie.Nolan50"
+    },
+    "guarantors": [
+      {
+        "fullName": "Emery Zulauf",
+        "phone": "1-452-458-3534 x185",
+        "email": "Melba_Hand-Roberts80@hotmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Lewis Kuhlman",
+        "phone": "(383) 217-8375 x322",
+        "email": "Efren_Ortiz52@yahoo.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "0f5a3535-e3ca-487a-be77-e6c4add7839f",
+    "username": "Pansy_Maggio",
+    "email": "Amara.Schinner@hotmail.com",
+    "phone": "267.303.4793",
+    "organization": "Lendstar",
+    "status": "Pending",
+    "dateJoined": "Nov 2, 2024, 01:12 PM",
+    "accountBalance": "₦151284.41",
+    "savingsBalance": "₦507422.84",
+    "loanBalance": "₦404484.78",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "4528384021",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Winston Ryan",
+      "gender": "Female",
+      "maritalStatus": "Single",
+      "children": 5,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "12 years",
+      "monthlyIncome": "₦921741.67",
+      "loanRepayment": "₦20263"
+    },
+    "socials": {
+      "twitter": "@Morris.McLaughlin",
+      "facebook": "Guadalupe55",
+      "instagram": "@Lynn_OConnell"
+    },
+    "guarantors": [
+      {
+        "fullName": "Julius Hessel",
+        "phone": "(289) 857-1216 x0256",
+        "email": "Keshawn87@gmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Susan Pouros",
+        "phone": "802-437-9047",
+        "email": "Kyra35@gmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "cb4d9542-e7c8-41cb-b448-3832bf605640",
+    "username": "Jakob55",
+    "email": "Angie_Schinner@yahoo.com",
+    "phone": "706.605.8118 x56965",
+    "organization": "Irorun",
+    "status": "Active",
+    "dateJoined": "Dec 6, 2024, 02:32 AM",
+    "accountBalance": "₦263771.00",
+    "savingsBalance": "₦680817.66",
+    "loanBalance": "₦137362.52",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "8556672128",
+      "bankName": "Zenith Bank"
+    },
+    "personalInfo": {
+      "fullName": "Tara Crooks",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 3,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Self-Employed",
+      "sector": "Health",
+      "experience": "8 years",
+      "monthlyIncome": "₦980910.22",
+      "loanRepayment": "₦21162"
+    },
+    "socials": {
+      "twitter": "@Isidro.Gleichner95",
+      "facebook": "Darian_Crooks72",
+      "instagram": "@Carolyne.Crooks38"
+    },
+    "guarantors": [
+      {
+        "fullName": "Murl Gislason",
+        "phone": "1-231-875-0781",
+        "email": "Wilmer_Hyatt@hotmail.com",
+        "relationship": "Brother"
+      },
+      {
+        "fullName": "Gerald Hayes",
+        "phone": "961-481-8342 x72075",
+        "email": "Randal85@gmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "6c88199f-c501-4b47-9001-51c569f4658e",
+    "username": "Michael.McCullough",
+    "email": "Brenden.Veum51@gmail.com",
+    "phone": "834-648-5440 x619",
+    "organization": "Lendsqr",
+    "status": "Inactive",
+    "dateJoined": "Jan 12, 2025, 07:57 AM",
+    "accountBalance": "₦416663.79",
+    "savingsBalance": "₦236137.63",
+    "loanBalance": "₦310311.31",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "4747799313",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Rosendo Wisoky",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 0,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Unemployed",
+      "sector": "Education",
+      "experience": "17 years",
+      "monthlyIncome": "₦524532.95",
+      "loanRepayment": "₦99228"
+    },
+    "socials": {
+      "twitter": "@Devonte_Toy",
+      "facebook": "Leopoldo_Ankunding12",
+      "instagram": "@Judah_Osinski13"
+    },
+    "guarantors": [
+      {
+        "fullName": "Fritz Connelly",
+        "phone": "1-450-732-9137",
+        "email": "Quinn91@yahoo.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Tremaine Rippin",
+        "phone": "265.381.1031 x42899",
+        "email": "Rory.Haley35@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "99d03e85-050d-455b-a364-c5d52a8c552e",
+    "username": "Humberto_Reinger12",
+    "email": "Raven17@yahoo.com",
+    "phone": "669.772.3436 x81513",
+    "organization": "Lendstar",
+    "status": "Pending",
+    "dateJoined": "Oct 12, 2024, 01:29 PM",
+    "accountBalance": "₦431306.95",
+    "savingsBalance": "₦842620.60",
+    "loanBalance": "₦78912.15",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "1565582920",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Kailyn Mraz",
+      "gender": "Female",
+      "maritalStatus": "Married",
+      "children": 1,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "Education",
+      "experience": "10 years",
+      "monthlyIncome": "₦399498.32",
+      "loanRepayment": "₦39162"
+    },
+    "socials": {
+      "twitter": "@Braden_Wiza93",
+      "facebook": "Rickey_Schultz",
+      "instagram": "@Francesca81"
+    },
+    "guarantors": [
+      {
+        "fullName": "Rodrigo Hammes",
+        "phone": "898-819-1616 x176",
+        "email": "Joanie47@gmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Antonette Streich",
+        "phone": "937-312-2627",
+        "email": "Dudley.Green78@yahoo.com",
+        "relationship": "Aunt"
+      }
+    ]
+  },
+  {
+    "userId": "d58a7e85-9892-4e11-93a5-fa00c3da2e5b",
+    "username": "Evangeline.Prohaska77",
+    "email": "Michel29@yahoo.com",
+    "phone": "1-757-734-7933 x00736",
+    "organization": "Lendstar",
+    "status": "Inactive",
+    "dateJoined": "Mar 14, 2024, 05:39 PM",
+    "accountBalance": "₦479006.27",
+    "savingsBalance": "₦386002.59",
+    "loanBalance": "₦317992.09",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "5673055841",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Phyllis McCullough",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 4,
+      "residenceType": "Parent's Apartment"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Employed",
+      "sector": "FinTech",
+      "experience": "12 years",
+      "monthlyIncome": "₦606315.15",
+      "loanRepayment": "₦12583"
+    },
+    "socials": {
+      "twitter": "@Aracely55",
+      "facebook": "Modesta62",
+      "instagram": "@Alison61"
+    },
+    "guarantors": [
+      {
+        "fullName": "Milford Murray",
+        "phone": "869.601.3884 x193",
+        "email": "Bettye16@yahoo.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Keely Schroeder",
+        "phone": "(409) 541-8017",
+        "email": "Calista_Rau@hotmail.com",
+        "relationship": "Father"
+      }
+    ]
+  },
+  {
+    "userId": "8b31100c-2456-46e7-a3dc-8cd08db02cbd",
+    "username": "Kyle.Gusikowski4",
+    "email": "Ethyl_Kessler@yahoo.com",
+    "phone": "(318) 853-4805",
+    "organization": "Lendsqr",
+    "status": "Blacklisted",
+    "dateJoined": "Jun 25, 2024, 05:08 PM",
+    "accountBalance": "₦228262.48",
+    "savingsBalance": "₦996578.10",
+    "loanBalance": "₦488842.40",
+    "tier": "★★☆",
+    "bankDetails": {
+      "accountNumber": "8683392136",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Cathy Jacobson",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 3,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "M.Sc",
+      "status": "Employed",
+      "sector": "Technology",
+      "experience": "12 years",
+      "monthlyIncome": "₦766396.62",
+      "loanRepayment": "₦66657"
+    },
+    "socials": {
+      "twitter": "@Kamron_Huel",
+      "facebook": "Eudora_Pfannerstill68",
+      "instagram": "@Laverna_Kessler78"
+    },
+    "guarantors": [
+      {
+        "fullName": "Monserrat Leannon",
+        "phone": "908.889.4433 x04625",
+        "email": "Jeramy.Medhurst78@hotmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Bettie Mann",
+        "phone": "(449) 704-8990",
+        "email": "Ines79@gmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "b8da1e07-3e28-4125-8c2b-ace8a9abc1e2",
+    "username": "Francisco.Greenfelder",
+    "email": "Leland.Wilkinson57@yahoo.com",
+    "phone": "212-705-2077",
+    "organization": "Lendsqr",
+    "status": "Active",
+    "dateJoined": "Feb 15, 2025, 05:28 AM",
+    "accountBalance": "₦270352.57",
+    "savingsBalance": "₦883122.70",
+    "loanBalance": "₦34523.65",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "6214168952",
+      "bankName": "GTBank"
+    },
+    "personalInfo": {
+      "fullName": "Maurine Fay",
+      "gender": "Male",
+      "maritalStatus": "Single",
+      "children": 3,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Self-Employed",
+      "sector": "Education",
+      "experience": "9 years",
+      "monthlyIncome": "₦396010.57",
+      "loanRepayment": "₦94964"
+    },
+    "socials": {
+      "twitter": "@Shanon.Bayer",
+      "facebook": "Erling_Cruickshank52",
+      "instagram": "@Chanel.Goldner"
+    },
+    "guarantors": [
+      {
+        "fullName": "Fredrick Price",
+        "phone": "334-751-7918 x41235",
+        "email": "Lydia94@gmail.com",
+        "relationship": "Friend"
+      },
+      {
+        "fullName": "Henriette Kutch",
+        "phone": "(340) 812-6045 x2504",
+        "email": "Lorenza_Gutkowski-VonRueden93@gmail.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "ce6b1460-d6b3-4e58-a74c-03271b540c03",
+    "username": "Felipa_Stokes16",
+    "email": "Rebecca_OReilly@hotmail.com",
+    "phone": "1-598-956-9540",
+    "organization": "Irorun",
+    "status": "Active",
+    "dateJoined": "Apr 28, 2024, 06:34 PM",
+    "accountBalance": "₦355423.70",
+    "savingsBalance": "₦476196.66",
+    "loanBalance": "₦302147.19",
+    "tier": "★★★",
+    "bankDetails": {
+      "accountNumber": "2487995663",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Mark Welch",
+      "gender": "Female",
+      "maritalStatus": "Divorced",
+      "children": 0,
+      "residenceType": "Rented"
+    },
+    "employment": {
+      "education": "Ph.D",
+      "status": "Self-Employed",
+      "sector": "Health",
+      "experience": "2 years",
+      "monthlyIncome": "₦416725.00",
+      "loanRepayment": "₦46527"
+    },
+    "socials": {
+      "twitter": "@Elroy_Jones3",
+      "facebook": "Eden6",
+      "instagram": "@Gonzalo.Daniel97"
+    },
+    "guarantors": [
+      {
+        "fullName": "Berneice Friesen",
+        "phone": "1-459-880-0167 x207",
+        "email": "Lessie.Jast@gmail.com",
+        "relationship": "Sister"
+      },
+      {
+        "fullName": "Saul Hoeger",
+        "phone": "1-393-390-4511 x2833",
+        "email": "Nyah_OConnell89@yahoo.com",
+        "relationship": "Mother"
+      }
+    ]
+  },
+  {
+    "userId": "27247822-27ac-4b3b-8e43-2e3dd4378c4e",
+    "username": "Conrad_Funk32",
+    "email": "Katelynn_Nienow@gmail.com",
+    "phone": "(564) 365-6521 x80317",
+    "organization": "Lendsqr",
+    "status": "Blacklisted",
+    "dateJoined": "Jan 3, 2025, 12:26 PM",
+    "accountBalance": "₦317773.17",
+    "savingsBalance": "₦786582.17",
+    "loanBalance": "₦86667.02",
+    "tier": "★☆☆",
+    "bankDetails": {
+      "accountNumber": "7693517386",
+      "bankName": "Providus Bank"
+    },
+    "personalInfo": {
+      "fullName": "Steve Hermann",
+      "gender": "Male",
+      "maritalStatus": "Married",
+      "children": 2,
+      "residenceType": "Owned"
+    },
+    "employment": {
+      "education": "B.Sc",
+      "status": "Unemployed",
+      "sector": "Technology",
+      "experience": "7 years",
+      "monthlyIncome": "₦290044.29",
+      "loanRepayment": "₦60366"
+    },
+    "socials": {
+      "twitter": "@Brant_Moore",
+      "facebook": "Susana_Heller2",
+      "instagram": "@Margot_Sawayn96"
+    },
+    "guarantors": [
+      {
+        "fullName": "Lenore Watsica",
+        "phone": "1-973-201-6766 x80198",
+        "email": "Tiara.Kuhlman@gmail.com",
+        "relationship": "Colleague"
+      },
+      {
+        "fullName": "Geovanny Lowe",
+        "phone": "255-340-4902 x7508",
+        "email": "Jamal.Lubowitz@gmail.com",
+        "relationship": "Aunt"
+      }
+    ]
+  }
+]

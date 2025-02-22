@@ -1,0 +1,18 @@
+.top-cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+
+  .card {
+    background: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    flex: 1;
+    margin-right: 10px;
+    text-align: center;
+
+    &.active-users {
+      border: 2px solid blue; // Highlight active users card
+    }
+  }
+}
