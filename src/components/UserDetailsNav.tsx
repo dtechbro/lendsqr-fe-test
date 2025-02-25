@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/UserDetailsNav.scss";
+import "../styles/userdetailsnav.scss";
 
 interface UserDetailsNavProps {
   activeTab: string;
