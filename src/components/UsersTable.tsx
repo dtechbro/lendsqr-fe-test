@@ -93,80 +93,82 @@ const UsersTable: React.FC<UsersTableProps> = ({ users }) => {
 
   return (
     <div className="users-table">
-      <table>
-        <thead>
-          {table.getHeaderGroups().map((headerGroup) => (
-            <tr key={headerGroup.id}>
-              {headerGroup.headers.map((header) => (
-                <th key={header.id} onClick={handleFilterClick}>
-                  {flexRender(
-                    header.column.columnDef.header,
-                    header.getContext()
-                  )}
-                  <MdFilterList
-                    className="filter-icon"
-                    style={{ cursor: "pointer", marginLeft: "5px" }}
+      <div className="table-wrapper">
+        <table>
+          <thead>
+            {table.getHeaderGroups().map((headerGroup) => (
+              <tr key={headerGroup.id}>
+                {headerGroup.headers.map((header) => (
+                  <th key={header.id} onClick={handleFilterClick}>
+                    {flexRender(
+                      header.column.columnDef.header,
+                      header.getContext()
+                    )}
+                    <MdFilterList
+                      className="filter-icon"
+                      style={{ cursor: "pointer", marginLeft: "5px" }}
+                    />
+                  </th>
+                ))}
+              </tr>
+            ))}
+          </thead>
+
+          <tbody>
+            {table.getRowModel().rows.map((row) => (
+              <tr key={row.id}>
+                {row.getVisibleCells().map((cell) => (
+                  <td key={cell.id}>
+                    {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                  </td>
+                ))}
+                <td className="action-btn">
+                  <HiDotsVertical
+                    onClick={() => handleActionClick(row.original.userId)}
+                    style={{ cursor: "pointer" }}
                   />
-                </th>
-              ))}
-            </tr>
-          ))}
-        </thead>
+                  {actionModalOpen === row.original.userId && (
+                    <div className="action-modal">
+                      <button
+                        onClick={() => {
+                          // Store the selected user in localStorage
+                          localStorage.setItem(
+                            "selectedUser",
+                            JSON.stringify(row.original)
+                          );
+                          // Navigate to the User Details page
+                          navigate(`/users/${row.original.userId}`);
+                        }}
+                      >
+                        <ViewDetailsIcon />
+                        View Details
+                      </button>
 
-        <tbody>
-          {table.getRowModel().rows.map((row) => (
-            <tr key={row.id}>
-              {row.getVisibleCells().map((cell) => (
-                <td key={cell.id}>
-                  {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                      <button>
+                        <BlacklistUserIcon /> Blacklist User
+                      </button>
+
+                      <button>
+                        <ActivateUserIcon /> Activate User
+                      </button>
+                    </div>
+                  )}
                 </td>
-              ))}
-              <td className="action-btn">
-                <HiDotsVertical
-                  onClick={() => handleActionClick(row.original.userId)}
-                  style={{ cursor: "pointer" }}
-                />
-                {actionModalOpen === row.original.userId && (
-                  <div className="action-modal">
-                    <button
-                      onClick={() => {
-                        // Store the selected user in localStorage
-                        localStorage.setItem(
-                          "selectedUser",
-                          JSON.stringify(row.original)
-                        );
-                        // Navigate to the User Details page
-                        navigate(`/users/${row.original.userId}`);
-                      }}
-                    >
-                      <ViewDetailsIcon />
-                      View Details
-                    </button>
+              </tr>
+            ))}
+          </tbody>
 
-                    <button>
-                      <BlacklistUserIcon /> Blacklist User
-                    </button>
-
-                    <button>
-                      <ActivateUserIcon /> Activate User
-                    </button>
-                  </div>
-                )}
-              </td>
-            </tr>
-          ))}
-        </tbody>
-
-        {/* filter modal  */}
-        <tfoot className="filter-modal">
-          <FilterModal
-            isOpen={filterModalOpen}
-            onClose={() => setFilterModalOpen(false)}
-            filterValues={filterValues}
-            setFilterValues={setFilterValues}
-          />
-        </tfoot>
-      </table>
+          {/* filter modal  */}
+          <tfoot className="filter-modal">
+            <FilterModal
+              isOpen={filterModalOpen}
+              onClose={() => setFilterModalOpen(false)}
+              filterValues={filterValues}
+              setFilterValues={setFilterValues}
+            />
+          </tfoot>
+        </table>
+      </div>
 
       {/* table pagination */}
       <Pagination table={table} />

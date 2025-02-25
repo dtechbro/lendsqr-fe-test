@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/usersfiltermodal.scss';
+import "../styles/usersfiltermodal.scss";
 
 interface FilterModalProps {
   isOpen: boolean;
@@ -35,62 +35,75 @@ const FilterModal: React.FC<FilterModalProps> = ({
   return (
     <div>
       <div className="filter">
+        <label htmlFor="">Organization</label>
+        <select name="" id="">
+          <option value="">Select</option>
+          <option value="Organization 1">Kredi</option>
+          <option value="Organization 2">Irorun</option>
+          <option value="Organization 3">Lendsqr</option>
+        </select>
+
+        <label htmlFor="">Username</label>
         <input
           type="text"
-          placeholder="Filter by organization"
-          value={filterValues.organization}
-          onChange={(e) =>
-            setFilterValues({ ...filterValues, organization: e.target.value })
-          }
-        />
-        <input
-          type="text"
-          placeholder="Filter by username"
+          placeholder="Username"
           value={filterValues.username}
           onChange={(e) =>
             setFilterValues({ ...filterValues, username: e.target.value })
           }
         />
+
+        <label htmlFor="">Email</label>
         <input
           type="text"
-          placeholder="Filter by email"
+          placeholder="Email"
           value={filterValues.email}
           onChange={(e) =>
             setFilterValues({ ...filterValues, email: e.target.value })
           }
         />
+
+        <label htmlFor="">Phone number</label>
         <input
           type="text"
-          placeholder="Filter by phone number"
+          placeholder="Phone number"
           value={filterValues.phoneNumber}
           onChange={(e) =>
             setFilterValues({ ...filterValues, phoneNumber: e.target.value })
           }
         />
+
+        <label htmlFor="">Date Joined</label>
         <input
           type="date"
-          placeholder="Filter by date joined"
+          placeholder="Date"
           value={filterValues.dateJoined}
           onChange={(e) =>
             setFilterValues({ ...filterValues, dateJoined: e.target.value })
           }
         />
+
+        <label htmlFor="">Status</label>
         <select
           value={filterValues.status}
           onChange={(e) =>
             setFilterValues({ ...filterValues, status: e.target.value })
           }
         >
-          <option value="">Select Status</option>
+          <option value="">Select</option>
           <option value="Active">Active</option>
           <option value="Inactive">Inactive</option>
           <option value="Pending">Pending</option>
           <option value="Blacklisted">Blacklisted</option>
         </select>
 
-        <div>
-          <button onClick={onClose}>Cancel</button>
-          <button onClick={onClose}>Apply</button>
+        <div className="btn-wrapper">
+          <button onClick={onClose} className="reset-btn">
+            Reset
+          </button>
+          <button onClick={onClose} className="filter-btn">
+            Filter
+          </button>
         </div>
       </div>
     </div>

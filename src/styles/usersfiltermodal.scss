@@ -1,37 +1,57 @@
 .filter {
   // transform: translate(-50%, -50%);
   background: #ffffff;
-  border: 1px solid #ddd;
   display: flex;
   flex-direction: column;
-  gap: 10px;
   border-radius: 4px;
   padding: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  // z-index: 100;
+  border: 1px solid rgba(84, 95, 125, 0.14);
+  box-shadow: 3px 5px 20px 0px rgba(0, 0, 0, 0.04);
 
-  div {
+  label {
+    font-size: 14px;
+    color: #545F7D;
+    margin: 10px 0 5px 0;
+  }
+
+  input, select {
+    margin: 0 0 10px 0;
+    padding: 5px;
+    border: 1px solid rgba(33, 63, 125, 0.2);
+    border-radius: 4px;
+    width: 200px;
+  }
+
+  .btn-wrapper {
     display: flex;
+    justify-content: space-between;
     gap: 10px;
-  }
+    margin-top: 20px;
 
-  input {
-    margin: 5px 0;
-    padding: 5px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-  }
+    button {
+      background-color: #f4f4f4;
+      cursor: pointer;
+      margin: 5px 0;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      width: 100%;
 
-  button {
-    background-color: #f4f4f4;
-    cursor: pointer;
-    margin: 5px 0;
-    padding: 5px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
+      &:hover {
+        background-color: #ddd;
+      }
 
-    &:hover {
-      background-color: #ddd;
+      &.reset-btn {
+        background: none;
+        color: #545F7D;
+        border: 1px solid #545F7D;
+      }
+
+      &.filter-btn {
+        background-color: #39CDCC;
+        color: #ffffff;
+        border: none;
+      }
     }
   }
 }

@@ -16,7 +16,6 @@
   &:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   }
-
   
 
   .stats-content {
@@ -34,5 +33,18 @@
       color: #213f7d;
       margin: 5px 0 0;
     }
+  }
+
+  @media (max-width: 768px) {
+    .stats-content {
+      h3 {
+        font-size: 12px;
+      }
+
+      p {
+        font-size: 20px;
+      }
+    }
+    
   }
 }
