@@ -1,137 +1,56 @@
-import DashboardLayout from "../components/DashboardLayout";
-import UserDetailsLayout from "../components/UserDetailsLayout";
+import React, { useEffect, useState } from "react";
+import { useParams, useNavigate } from "react-router-dom";
+import { UserDetailHeader } from "../components/UserDetailsHeader";
+import GeneralDetails from "../components/GeneralDetails";
 import "../styles/userdetails.scss";
-import { useParams } from "react-router-dom";
-import users from "../data/users.json";
-// import React from "react";
+import DashboardLayout from "../components/DashboardLayout";
+import EmptyDetails from "../components/EmptyDetails";
 
-const UserDetails = () => {
+const UserDetails: React.FC = () => {
+  const [activeTab, setActiveTab] = useState("general");
   const { userId } = useParams<{ userId: string }>();
-  const user = users.find((u) => u.userId === userId);
+  const navigate = useNavigate();
 
-  if (!user) {
-    return <div>User not found</div>;
-  }
+  // Retrieve the user data from localStorage
+  const selectedUser = JSON.parse(
+    localStorage.getItem("selectedUser") || "null"
+  );
+
+  // Check if the selected user matches the userId in the URL
+  const user =
+    selectedUser && selectedUser.userId === userId ? selectedUser : null;
+
+  // Debugging: Check the user object
+  // console.log("Selected User:", selectedUser);
+  // console.log("User from URL:", user);
+
+  useEffect(() => {
+    if (!user) {
+      console.log("User not found, redirecting to dashboard");
+      navigate("/users"); // Redirect to users dashoboard if user is not found
+    }
+  }, [user, navigate]);
 
   return (
     <DashboardLayout>
-      <UserDetailsLayout user={user}>
-        <div className="user-details">
-          <h2>Personal Information</h2>
-          <div className="grid">
-            <div>
-              <span>FULL NAME</span>
-              <p>{user.personalInfo.fullName}</p>
-            </div>
-            <div>
-              <span>PHONE NUMBER</span>
-              <p>{user.phone}</p>
-            </div>
-            <div>
-              <span>EMAIL ADDRESS</span>
-              <p>{user.email}</p>
-            </div>
-            <div>
-              <span>BVN</span>
-              <p>{user.phone}</p>
-            </div>
-            <div>
-              <span>GENDER</span>
-              <p>{user.personalInfo.gender}</p>
-            </div>
-            <div>
-              <span>MARITAL STATUS</span>
-              <p>{user.personalInfo.maritalStatus}</p>
-            </div>
-            <div>
-              <span>CHILDREN</span>
-              <p>{user.personalInfo.children}</p>
-            </div>
-            <div>
-              <span>TYPE OF RESIDENCE</span>
-              <p>{user.personalInfo.residenceType}</p>
-            </div>
-          </div>
-
-          <hr />
-
-          <h2>Education and Employment</h2>
-          <div className="grid">
-            <div>
-              <span>LEVEL OF EDUCATION</span>
-              <p>{user.employment.education}</p>
-            </div>
-            <div>
-              <span>EMPLOYMENT STATUS</span>
-              <p>{user.employment.status}</p>
-            </div>
-            <div>
-              <span>SECTOR OF EMPLOYMENT</span>
-              <p>{user.employment.sector}</p>
-            </div>
-            <div>
-              <span>DURATION OF EMPLOYMENT</span>
-              <p>{user.employment.experience}</p>
-            </div>
-            <div>
-              <span>OFFICE EMAIL</span>
-              <p>{user.email}</p>
-            </div>
-            <div>
-              <span>MONTHLY INCOME</span>
-              <p>{user.employment.monthlyIncome}</p>
-            </div>
-            <div>
-              <span>LOAN REPAYMENT</span>
-              <p>{user.employment.loanRepayment}</p>
-            </div>
-          </div>
-
-          <hr />
-
-          <h2>Socials</h2>
-          <div className="grid">
-            <div>
-              <span>TWITTER</span>
-              <p>{user.socials.twitter}</p>
-            </div>
-            <div>
-              <span>FACEBOOK</span>
-              <p>{user.socials.facebook}</p>
-            </div>
-            <div>
-              <span>INSTAGRAM</span>
-              <p>{user.socials.instagram}</p>
-            </div>
-          </div>
-
-          <hr />
-
-          <h2>Guarantor</h2>
-          <div className="guarantor-grid">
-            {user.guarantors.map((guarantor, index) => (
-              <div key={index} className="guarantor">
-                <div>
-                  <span>FULL NAME</span>
-                  <p>{guarantor.fullName}</p>
-                </div>
-                <div>
-                  <span>PHONE NUMBER</span>
-                  <p>{guarantor.phone}</p>
-                </div>
-                <div>
-                  <span>EMAIL ADDRESS</span>
-                  <p>{guarantor.email}</p>
-                </div>
-                <div>
-                  <span>RELATIONSHIP</span>
-                  <p>{guarantor.relationship}</p>
-                </div>
-              </div>
-            ))}
-          </div>
+      <div className="user-details">
+        <div className="user-details-head">
+          <UserDetailHeader
+            user={user}
+            activeTab={activeTab}
+            setActiveTab={setActiveTab}
+          />
         </div>
-      </UserDetailsLayout>
+
+        <div className="tab-content">
+          {activeTab === "general" && <GeneralDetails user={user} />}
+          {activeTab === "documents" && <EmptyDetails user={user} />}
+          {activeTab === "bank" && <EmptyDetails user={user} />}
+          {activeTab === "loans" && <EmptyDetails user={user} />}
+          {activeTab === "savings" && <EmptyDetails user={user} />}
+          {activeTab === "app" && <EmptyDetails user={user} />}
+        </div>
+      </div>
     </DashboardLayout>
   );
 };

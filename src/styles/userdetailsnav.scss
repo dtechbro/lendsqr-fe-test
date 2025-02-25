@@ -1,41 +1,40 @@
 .user-details-nav {
-  
-  margin-top: 20px;
+  padding: 20px 20px 0 20px;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  // gap: 5px;
+  align-items: center;
   background: #ffffff;
-  padding: 0 5px;
-  
 
-  ul {
-    display: flex;
-    width: 100%;
-    justify-content: space-between;
-    gap: 5px;
-    align-items: center;
+  button {
+    color: #545f7d;
+    background: none;
+    border: none;
+    white-space: nowrap;
+    padding: 10px 20px;
+    cursor: pointer;
 
-    li {
-      list-style-type: none;
-
-      a {
-        color: #545F7D;
-        text-decoration: none;
-        white-space: nowrap;
-
-        &.active {
-          color: #39CDCC;
-          font-weight: bold;
-          text-decoration: underline;
-        }
-      }
+    &.active {
+      color: #39cdcc;
+      font-weight: bold;
+      // text-decoration: underline;
+      border-bottom: #39cdcc 2px solid;
     }
   }
+
+
 
   @media screen and (max-width: 768px) {
     // width: auto;
     overflow-x: scroll;
+    gap: 30px;
+    margin-bottom: 5px;
 
-    ul {
-      gap: 30px;
+    button {
+      padding: 5px 10px;
+      font-size: 12px;
     }
-    
   }
+
 }

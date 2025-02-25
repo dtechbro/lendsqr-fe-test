@@ -1,20 +1,25 @@
 import { BackIcon } from "../assets/svg";
 import "../styles/userdetailsheader.scss";
 import profile from "../assets/profile.png";
-import UserDetailsNav from "./UserDetailsNav";
 import { User } from "../types";
 import { useParams } from "react-router-dom";
 import users from "../data/users.json";
+import UserDetailsNav from "./UserDetailsNav";
 
 interface UserDetailsProps {
   user: User;
+  activeTab: string;
+  setActiveTab: React.Dispatch<React.SetStateAction<string>>;
 }
 
-export const UserDetailHeader: React.FC<UserDetailsProps> = () => {
+export const UserDetailHeader: React.FC<UserDetailsProps> = ({
+  activeTab,
+  setActiveTab,
+}) => {
   const { userId } = useParams<{ userId: string }>();
-  const user = users.find((u) => u.userId === userId);
+  const userData = users.find((u) => u.userId === userId);
 
-  if (!user) {
+  if (!userData) {
     return <div>User not found</div>;
   }
 
@@ -44,29 +49,29 @@ export const UserDetailHeader: React.FC<UserDetailsProps> = () => {
             </div>
 
             <div>
-              <h2>{user?.personalInfo?.fullName || "Unknown User"}</h2>
-              <p>FQSuhf8r94</p>
+              <h2>{userData?.personalInfo?.fullName || "Unknown User"}</h2>
+              <p>{userData?.userTag}</p>
             </div>
           </div>
 
           <div className="user-tier">
             <h2>User's Tier</h2>
-            <p>{user?.tier}</p>
+            <p>{userData?.tier}</p>
           </div>
 
           <div>
-            <h2>{user?.accountBalance || "₦0.00"}</h2>
+            <h2>{userData?.accountBalance || "₦0.00"}</h2>
 
             <p>
-              {user?.bankDetails?.accountNumber || "0000000000"}/
-              {user.bankDetails.bankName || "No bank"}
+              {userData?.bankDetails?.accountNumber || "0000000000"}/
+              {userData.bankDetails.bankName || "No bank"}
             </p>
           </div>
         </div>
+      </div>
 
-        <div>
-          <UserDetailsNav />
-        </div>
+      <div>
+        <UserDetailsNav activeTab={activeTab} setActiveTab={setActiveTab} />
       </div>
     </div>
   );

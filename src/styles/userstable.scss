@@ -1,6 +1,5 @@
-// src/styles/UsersTable.scss
 .users-table {
-  overflow-x: auto;
+
 
   table {
     width: 100%;
@@ -8,25 +7,23 @@
     padding: 20px;
     border-collapse: collapse;
     background: #ffffff;
-    position: relative;
+    overflow-x: auto;
 
-    thead, tbody {
+    thead,
+    tbody {
       padding: 0 20px;
     }
 
-
-    th, td {
-      // padding: 12px;
+    th,
+    td {
       text-align: left;
-      // border-bottom: 1px solid #ddd;
     }
 
     th {
       font-weight: bold;
       color: #545F7D;
-      font-size: 12px; 
+      font-size: 12px;
       padding: 20px;
-      position: relative;
     }
 
     td {
@@ -37,11 +34,11 @@
       white-space: nowrap;
     }
 
-    tbody > tr:hover {
+    tbody>tr:hover {
       background-color: #f9f9f9;
     }
 
-    tbody > tr:last-child > td {
+    tbody>tr:last-child>td {
       border-bottom: none !important;
     }
   }
@@ -73,14 +70,13 @@
     }
   }
 
-
   .action-btn {
     position: relative;
   }
 
   .filter-modal {
     position: absolute;
-    top: 50px;
+    top: 430px;
   }
 
   .action-modal {
@@ -92,7 +88,7 @@
     border-radius: 4px;
     border: 0px solid rgba(84, 95, 125, 0.04);
     padding: 10px;
-    z-index: 100;
+    z-index: 10;
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -111,10 +107,16 @@
     }
   }
 
-
-
   @media (max-width: 768px) {
-    
-    
+    // mobile-specific styles here
+
+    table {
+      display: block;
+      white-space: nowrap;
+
+      td {
+        font-size: 12px;
+      }
+    }
   }
 }

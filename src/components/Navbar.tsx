@@ -2,14 +2,25 @@ import { AdminDropDownIcon, Logo, SearchIcon } from "../assets/svg";
 import avatar from "../assets/avatar.png";
 import "../styles/navbar.scss";
 import NotificationIcon from "../assets/notification.png";
+import { GiHamburgerMenu } from "react-icons/gi";
 
-export default function Navbar() {
+export default function Navbar({
+  toggleSidebar,
+}: {
+  toggleSidebar: () => void;
+}) {
   return (
     <nav>
       <div className="logo-side">
-        <a href="#">
-          <Logo className="logo" />
-        </a>
+        <div className="logo-container">
+          <div className="menu-icon">
+            <GiHamburgerMenu onClick={toggleSidebar} />
+          </div>
+
+          <a href="#">
+            <Logo className="logo" />
+          </a>
+        </div>
 
         <div className="search">
           <input type="text" placeholder="Search anything" />

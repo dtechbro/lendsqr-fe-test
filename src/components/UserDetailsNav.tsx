@@ -1,33 +1,37 @@
-import "../styles/userdetailsnav.scss";
-import { useLocation } from "react-router-dom";
+import React from "react";
+import "../styles/UserDetailsNav.scss";
 
-export default function UserDetailsNav() {
-  const location = useLocation();
-  const defaultActivePath = "/user-details";
+interface UserDetailsNavProps {
+  activeTab: string;
+  setActiveTab: (tab: string) => void;
+}
 
-  const navList = [
-    { name: "General Details", path: "/users/:userId" },
-    { name: "Documents", path: "/empty" },
-    { name: "Bank Details", path: "/empty" },
-    { name: "Loans", path: "/empty" },
-    { name: "Savings", path: "/empty" },
-    { name: "App and System", path: "/empty" },
+const UserDetailsNav: React.FC<UserDetailsNavProps> = ({
+  activeTab,
+  setActiveTab,
+}) => {
+  const tabs = [
+    { id: "general", label: "General Details" },
+    { id: "documents", label: "Documents" },
+    { id: "bank", label: "Bank Details" },
+    { id: "loans", label: "Loans" },
+    { id: "savings", label: "Savings" },
+    { id: "app", label: "App and System" },
   ];
 
   return (
     <div className="user-details-nav">
-      <ul>
-        {navList.map((item, idx) => (
-          <li key={idx}>
-            <a
-              href={item.path}
-              className={location.pathname === item.path || (location.pathname === "/" && item.path === defaultActivePath) ? "active" : ""}
-            >
-              {item.name}
-            </a>
-          </li>
-        ))}
-      </ul>
+      {tabs.map((tab) => (
+        <button
+          key={tab.id}
+          className={activeTab === tab.id ? "active" : ""}
+          onClick={() => setActiveTab(tab.id)}
+        >
+          {tab.label}
+        </button>
+      ))}
     </div>
   );
-}
+};
+
+export default UserDetailsNav;

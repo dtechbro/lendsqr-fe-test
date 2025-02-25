@@ -129,7 +129,15 @@ const UsersTable: React.FC<UsersTableProps> = ({ users }) => {
                 {actionModalOpen === row.original.userId && (
                   <div className="action-modal">
                     <button
-                      onClick={() => navigate(`/users/${row.original.userId}`)}
+                      onClick={() => {
+                        // Store the selected user in localStorage
+                        localStorage.setItem(
+                          "selectedUser",
+                          JSON.stringify(row.original)
+                        );
+                        // Navigate to the User Details page
+                        navigate(`/users/${row.original.userId}`);
+                      }}
                     >
                       <ViewDetailsIcon />
                       View Details

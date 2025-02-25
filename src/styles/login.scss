@@ -17,8 +17,8 @@ $primary: #39cdcc;
 
   .login-logo {
     position: absolute;
-    top: 40px;
-    left: 50px;
+    top: 80px;
+    left: 80px;
   }
 
 
@@ -45,14 +45,17 @@ $primary: #39cdcc;
 /* Right Side - Form */
 .login-form-side {
   display: flex;
+  // width: 100%;
   justify-content: center;
   align-items: center;
   background: #fff;
+  // border-left: 2px solid rgba(84, 95, 125, 0.15);
+  box-shadow: 0 2px 10px rgba(84, 95, 125, 0.1);
 }
 
 .login-form-container {
   width: 100%;
-  max-width: 350px;
+  max-width: 450px;
   text-align: left;
 
   h2 {
@@ -147,6 +150,7 @@ $primary: #39cdcc;
     padding: 20px;
     display: flex;
     justify-content: center;
+    box-shadow: none;
   }
 
   .login-form-container {

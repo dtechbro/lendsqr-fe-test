@@ -10,10 +10,23 @@
 
     .sidebar {
       grid-row: span 1;
+      transition: transform 0.3s ease;
+      z-index: 50;
+
+      &.closed {
+        transform: translateX(-100%);
+        width: 0;
+        overflow: hidden;
+      }
+
+      &.open {
+        transform: translateX(0);
+        width: 250px;
+      }
     }
     
     .main-content {
-      margin-left: 250px;
+      margin-left: 50px;
       margin-top: 75px;
       padding: 50px;
       width: 100%;
@@ -31,14 +44,11 @@
       height: 100vh;
       
 
-      .sidebar {
-        display: none;
-      }
-
       .main-content {
         padding: 10px;
         width: 100%;
         margin-left: 0;
+        // z-index: 1;
       }
     }
   }

@@ -20,6 +20,7 @@ export interface User {
     maritalStatus: string;
     children: number;
     residenceType: string;
+    bvn: string;
   };
   employment: {
     education: string;
